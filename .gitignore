@@ -1,0 +1,53 @@
+# macOS
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+pip-wheel-metadata/
+
+# PyCharm
+.idea/
+*.iml
+
+# Jupyter
+.ipynb_checkpoints
+
+# Tests / coverage / caches
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.mypy_cache/
+.cache/
+
+# Logs and temp
+*.log
+*.tmp
+tmp/
+temp/
+
+# Project artifacts to ignore
+embeddings.joblib
+prompt.txt
+
+# Secrets (if any)
+.env.local
+secrets.json

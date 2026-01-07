@@ -1,0 +1,121 @@
+RAG BASED AI Assistant -
+What We’ll Build in This Project -
+
+In this project, we’ll build a RAG-based AI Teaching Assistant Using Retrieval-Augmented Generation (RAG),
+the assistant will be able to fetch relevant information from course materials and provide accurate,
+context-aware answers—just like a real teaching assistant.
+
+Pipeline -
+Video → MIT audio → Whisper text → chunks → embeddings → retrieval → LLM answer
+
+---------------------------------------------------------------------------------------------------------------------
+Step by Step progress explanation :
+
+I downloaded 10 python video lectures from MIT OpenCourseWare includes below python concepts :
+
+Computation, Branching, Iteration, String Manipulation, Guess and Check, Approximation,
+Bisection, Functions, Tuple, list, Aliasing, mutability, Cloning, Recursion, Dictionaries,
+Testing, Debugging, Exceptions, Assertions, Object-Oriented Programming, Classes, Inheritance.
+
+I saved them in a sub folder named videos inside my
+project folder. Problem was that RAG cannot work with raw video, Whisper requires audio, Filenames are inconsistent
+
+Solution
+This script: Converts videos → audio
+Normalizes filenames
+Ensures deterministic input
+Prepares clean data for transcription
+
+I wrote a python program that converted all the MP4 files into MP3's since whisper ( a module which we will later
+use in this project that basically helps to convert speech to text ) takes MP3's, and saved all the converted mp3s in
+a folder named "audios", made by using os module. Saved the program under 1.mp4ToMp3.ipynb.
+
+----------------------------------------------------------------------------------------------------------------------
+Step 1.   (1.mp4ToMp3.ipynb)
+This script is the data normalization and audio extraction step of my RAG pipeline.
+It converts raw lecture videos into clean, consistently named audio files so downstream transcription
+and retrieval remain deterministic and reliable.
+
+Step 2.     (2.mp3ToJson.ipynb)
+In this step, I process raw lecture audio files using the Whisper medium model to generate accurate transcriptions.
+Each audio file is transcribed into multiple segments, where each segment contains text along with start and end timestamps.
+I extract lecture-level metadata from the filename and inject that metadata into every segment.
+The output is a structured JSON file that contains both the full transcript and timestamped chunks,
+which becomes the input for the embedding and retrieval stages of the RAG system.
+
+Step 3.  (3.PrepJson.ipynb)
+After transcribing and chunking lecture audio, this script processes those chunks in order.
+It sends the chunk text to a local Ollama embedding server using an HTTP POST request.
+The embedding model converts each chunk into a vector representation, which captures semantic meaning.
+I assign a unique chunk ID to every embedding so retrieval remains deterministic.
+These embeddings are later used in the retrieval step of RAG to find the most relevant lecture segments for a user query.
+
+
+Step 4. (4.process_incoming.py)
+
+This program implements a retrieval-augmented question-answering system over an MIT python course. It uses semantic
+embeddings to find the most relevant lecture segments and then uses a lightweight LLM to generate a strictly grounded
+answer with exact lecture timestamps.
+
+This program helps Python students locate where a specific topic is covered in a course.
+Lecture transcripts are first split into small chunks and converted into embeddings to represent their meaning.
+
+When a user asks a question, the question is also embedded and compared against all lecture chunks using similarity search.
+chunks using similarity search. If the question is not relevant to the course content, the system clearly states that it
+cannot answer instead of guessing. For relevant questions, it selects the most relevant lecture segments, converts time
+stamps into minutes, and uses a language model to generate a clear explanation. The language model is strictly limited to
+the lecture content, so the response is accurate and points the student to the exact lecture and timestamp.
+
+# macOS
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+pip-wheel-metadata/
+
+# PyCharm
+.idea/
+*.iml
+
+# Jupyter
+.ipynb_checkpoints
+
+# Tests / coverage / caches
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.mypy_cache/
+.cache/
+
+# Logs and temp
+*.log
+*.tmp
+tmp/
+temp/
+
+# Project artifacts to ignore
+embeddings.joblib
+prompt.txt
+
+# Secrets (if any)
+.env.local
+secrets.json

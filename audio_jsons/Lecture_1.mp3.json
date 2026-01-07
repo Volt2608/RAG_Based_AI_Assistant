@@ -1,0 +1,6298 @@
+{
+  "chunks": [
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 0.0,
+      "end": 3.14,
+      "text": " The following content is provided under a Creative"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 3.14,
+      "end": 4.5600000000000005,
+      "text": " Commons license."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 4.5600000000000005,
+      "end": 6.98,
+      "text": " Your support will help MIT OpenCourseWare"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 6.98,
+      "end": 11.22,
+      "text": " continue to offer high quality educational resources for free."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 11.22,
+      "end": 13.96,
+      "text": " To make a donation or view additional materials"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 13.96,
+      "end": 17.88,
+      "text": " from hundreds of MIT courses, visit MIT OpenCourseWare"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 17.88,
+      "end": 19.04,
+      "text": " at ocw.mit.edu."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 30.16,
+      "end": 33.0,
+      "text": " All right, let's begin."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 33.0,
+      "end": 35.8,
+      "text": " So as I mentioned before, this lecture"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 35.8,
+      "end": 37.32,
+      "text": " will be recorded for OCW."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 37.32,
+      "end": 39.6,
+      "text": " So again, in future lectures, if you"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 39.6,
+      "end": 41.64,
+      "text": " don't want to have the back of your head show up,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 41.64,
+      "end": 44.44,
+      "text": " just don't sit in this front area here."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 44.44,
+      "end": 46.56,
+      "text": " So first of all, wow, what a crowd, you guys."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 46.56,
+      "end": 48.28,
+      "text": " We're finally in 26,100."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 48.28,
+      "end": 51.04,
+      "text": " 6.011 made it big, huh?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 51.04,
+      "end": 54.64,
+      "text": " So good afternoon, and welcome to the very first class"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 54.64,
+      "end": 58.72,
+      "text": " of 6.011 and also 600 this semester."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 58.76,
+      "end": 63.44,
+      "text": " So my name is Anna Bell, first name Anna, last name Bell."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 63.44,
+      "end": 66.44,
+      "text": " I'm a lecturer in the ECS department."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 66.44,
+      "end": 68.68,
+      "text": " And I'll be giving some of the lectures for today,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 68.68,
+      "end": 73.0,
+      "text": " along with later on in the term, Professor Eric Grimson, who's"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 73.0,
+      "end": 75.82,
+      "text": " sitting right down there, will be giving some of the lectures"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 75.82,
+      "end": 76.68,
+      "text": " as well."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 76.68,
+      "end": 79.75999999999999,
+      "text": " OK, so today we're going to go over"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 79.75999999999999,
+      "end": 82.2,
+      "text": " some just basic administrivia, a little bit of course"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 82.2,
+      "end": 83.12,
+      "text": " information."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 83.12,
+      "end": 84.84,
+      "text": " And then we're going to talk a little bit"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 84.84,
+      "end": 86.12,
+      "text": " about what is computation."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 86.12,
+      "end": 88.96000000000001,
+      "text": " So we'll discuss at a very high level what computers do,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 88.96000000000001,
+      "end": 91.44,
+      "text": " just to make sure we're all on the same page."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 91.44,
+      "end": 93.76,
+      "text": " And then we're going to dive right into Python basics."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 93.76,
+      "end": 96.34,
+      "text": " We're going to talk a little bit about mathematical operations"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 96.34,
+      "end": 98.4,
+      "text": " you can do with Python."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 98.4,
+      "end": 101.08000000000001,
+      "text": " And then we're going to talk about Python variables and types."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 101.08000000000001,
+      "end": 103.88000000000001,
+      "text": " So as I mentioned in my introductory email,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 103.88000000000001,
+      "end": 106.22,
+      "text": " all the slides and code that I'll talk about during lectures"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 106.22,
+      "end": 107.28,
+      "text": " will be up before lecture."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 107.28,
+      "end": 110.44,
+      "text": " So I highly encourage you to download them"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 110.44,
+      "end": 112.46000000000001,
+      "text": " and to have them open."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 112.46000000000001,
+      "end": 115.88000000000001,
+      "text": " We're going to go through some in-class exercises, which"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 115.88,
+      "end": 117.75999999999999,
+      "text": " will be available on the slides."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 117.75999999999999,
+      "end": 119.75999999999999,
+      "text": " And it's fun to do."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 119.75999999999999,
+      "end": 127.19999999999999,
+      "text": " And it's also great if you could take notes on the code,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 127.19999999999999,
+      "end": 129.16,
+      "text": " just for future reference."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 129.16,
+      "end": 130.2,
+      "text": " It's true."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 130.2,
+      "end": 132.16,
+      "text": " This is a really fast-paced course."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 132.16,
+      "end": 133.88,
+      "text": " And we ramp up really quickly."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 133.88,
+      "end": 137.64,
+      "text": " So we do want to position you to succeed in this course."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 137.64,
+      "end": 139.28,
+      "text": " So as I was writing this, I was trying"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 139.28,
+      "end": 142.48,
+      "text": " to think about when I was first starting the program,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 142.48,
+      "end": 146.07999999999998,
+      "text": " what helped me get through my very first programming course."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 146.07999999999998,
+      "end": 149.2,
+      "text": " And this is really a good list."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 149.2,
+      "end": 151.56,
+      "text": " So the first thing was, I just read the p-sets"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 151.56,
+      "end": 154.32,
+      "text": " as soon as they came out."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 154.32,
+      "end": 157.56,
+      "text": " The terminology just sunk in."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 157.56,
+      "end": 159.72,
+      "text": " And then during lectures, if the lecturer"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 159.72,
+      "end": 163.04,
+      "text": " was talking about something that suddenly I remembered,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 163.04,
+      "end": 164.48,
+      "text": " oh, I saw that word in the p-set."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 164.48,
+      "end": 165.6,
+      "text": " And I didn't know what it was."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 165.6,
+      "end": 167.16,
+      "text": " Well, hey, now I know what it is."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 167.16,
+      "end": 168.07999999999998,
+      "text": " So just give it a read."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 168.07999999999998,
+      "end": 171.48,
+      "text": " You don't need to start it."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 171.48,
+      "end": 174.64,
+      "text": " If you're new to programming, I think the keyword is practice."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 174.64,
+      "end": 177.88,
+      "text": " So it's like math or reading."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 177.88,
+      "end": 180.48,
+      "text": " The more you practice, the better you get at it."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 180.48,
+      "end": 182.79999999999998,
+      "text": " You're not going to absorb programming by watching me"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 182.79999999999998,
+      "end": 185.16,
+      "text": " write programs, because I already know how to program."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 185.16,
+      "end": 187.23999999999998,
+      "text": " You guys need to practice."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 187.23999999999998,
+      "end": 189.35999999999999,
+      "text": " So download the code before lecture."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 189.35999999999999,
+      "end": 190.07999999999998,
+      "text": " Follow along."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 190.07999999999998,
+      "end": 192.44,
+      "text": " Whatever I type, you guys can type."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 192.44,
+      "end": 194.35999999999999,
+      "text": " And I think also one of the big things"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 194.35999999999999,
+      "end": 196.04,
+      "text": " is, if you're new to programming, you're"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 196.04,
+      "end": 199.35999999999999,
+      "text": " kind of afraid that you're going to break your computer."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 199.36,
+      "end": 204.4,
+      "text": " And you can't really do that just by running Anaconda"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 204.4,
+      "end": 206.56,
+      "text": " and typing in some commands."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 206.56,
+      "end": 208.36,
+      "text": " So don't be afraid to just type some stuff in"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 208.36,
+      "end": 209.76000000000002,
+      "text": " and see what it does."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 209.76000000000002,
+      "end": 212.96,
+      "text": " Worst case, you just restart the computer."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 212.96,
+      "end": 215.56,
+      "text": " So yeah."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 215.56,
+      "end": 218.12,
+      "text": " Yeah, so that's probably the big thing right there."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 218.12,
+      "end": 219.66000000000003,
+      "text": " I should probably have highlighted it."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 219.66000000000003,
+      "end": 221.12,
+      "text": " But don't be afraid."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 221.12,
+      "end": 226.76000000000002,
+      "text": " Great, so this is pretty much a roadmap of all of 6.001 or 600,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 226.76000000000002,
+      "end": 227.88000000000002,
+      "text": " as I've just explained it."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 227.88,
+      "end": 231.88,
+      "text": " There's three big things we want you to get out of this course."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 231.88,
+      "end": 234.12,
+      "text": " The first thing is the knowledge of concepts,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 234.12,
+      "end": 236.96,
+      "text": " which is pretty much true of any class that you'll take."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 236.96,
+      "end": 239.76,
+      "text": " The class will teach you something through lectures."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 239.76,
+      "end": 242.51999999999998,
+      "text": " Exams will test how much you know."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 242.51999999999998,
+      "end": 245.8,
+      "text": " This is a class in programming."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 245.8,
+      "end": 248.96,
+      "text": " The other thing we want you to get out of it"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 248.96,
+      "end": 250.68,
+      "text": " is programming skills."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 250.68,
+      "end": 252.51999999999998,
+      "text": " And the last thing, and I think this is what"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 252.51999999999998,
+      "end": 254.16,
+      "text": " makes this class really great, is we"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 254.16,
+      "end": 256.24,
+      "text": " teach you how to solve problems."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 256.24,
+      "end": 258.6,
+      "text": " And we do that through the p-sets."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 258.6,
+      "end": 261.0,
+      "text": " So that's really how I feel the roadmap of this course"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 261.0,
+      "end": 262.6,
+      "text": " looks like."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 262.6,
+      "end": 265.08,
+      "text": " And underlying all of these is just practice."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 265.08,
+      "end": 269.8,
+      "text": " So you have to just type some stuff away and code a lot."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 269.8,
+      "end": 273.48,
+      "text": " And you'll succeed in this course, I think."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 273.48,
+      "end": 275.6,
+      "text": " OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 275.6,
+      "end": 278.8,
+      "text": " So what are the things we're going to learn in this class?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 278.8,
+      "end": 281.66,
+      "text": " I feel like the things we're going to learn in this class"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 281.66,
+      "end": 284.44,
+      "text": " can be divided into basically three different sections."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 284.44,
+      "end": 289.96,
+      "text": " So the first one is related to these first two items here."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 289.96,
+      "end": 293.24,
+      "text": " So it's really about learning how to program."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 293.24,
+      "end": 295.32,
+      "text": " So learning how to program is part of it"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 295.32,
+      "end": 298.96,
+      "text": " is figuring out what objects to create."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 298.96,
+      "end": 300.48,
+      "text": " You'll learn about these later."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 300.48,
+      "end": 302.56,
+      "text": " How do you represent knowledge with data structures?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 302.56,
+      "end": 304.88,
+      "text": " That's sort of the broad term for that."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 304.88,
+      "end": 307.32,
+      "text": " And then as you're writing programs,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 307.32,
+      "end": 308.8,
+      "text": " programs aren't just linear."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 308.8,
+      "end": 310.28,
+      "text": " Sometimes programs jump around."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 310.28,
+      "end": 311.24,
+      "text": " They make decisions."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 311.24,
+      "end": 313.52,
+      "text": " There's some control flow to programs."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 313.52,
+      "end": 318.59999999999997,
+      "text": " So that's what the second line is going to be about."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 318.59999999999997,
+      "end": 320.88,
+      "text": " The second big part of this course"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 320.88,
+      "end": 324.32,
+      "text": " is a little bit more abstract."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 324.32,
+      "end": 329.0,
+      "text": " And it deals with how do you write good code, good style,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 329.0,
+      "end": 330.4,
+      "text": " code that's readable."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 330.4,
+      "end": 333.03999999999996,
+      "text": " So when you write code, you want to write it such"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 333.03999999999996,
+      "end": 334.44,
+      "text": " that you're in a big company."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 334.44,
+      "end": 335.47999999999996,
+      "text": " Other people will read it."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 335.47999999999996,
+      "end": 337.64,
+      "text": " Other people will use it."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 337.64,
+      "end": 340.0,
+      "text": " So it has to be readable and understandable by others."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 340.0,
+      "end": 341.88,
+      "text": " So to that end, you need to write code"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 341.88,
+      "end": 348.8,
+      "text": " that's well-organized, modular, easy to understand."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 348.8,
+      "end": 350.56,
+      "text": " And not only that, not only will your code"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 350.56,
+      "end": 353.72,
+      "text": " be read by other people, but next year maybe"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 353.72,
+      "end": 355.14,
+      "text": " you'll take another course and you'll"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 355.14,
+      "end": 356.72,
+      "text": " want to look back at some of the problems"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 356.72,
+      "end": 358.28,
+      "text": " that you wrote in this class."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 358.28,
+      "end": 360.72,
+      "text": " You kind of want to be able to reread your code."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 360.72,
+      "end": 362.06,
+      "text": " If it's a big mess, you might not"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 362.06,
+      "end": 364.64,
+      "text": " be able to understand or re-understand"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 364.64,
+      "end": 366.52,
+      "text": " what you were doing."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 366.52,
+      "end": 368.64,
+      "text": " So writing readable code and organizing code"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 368.64,
+      "end": 370.36,
+      "text": " is also a big part."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 370.36,
+      "end": 374.96,
+      "text": " And the last section is going to deal with,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 374.96,
+      "end": 378.15999999999997,
+      "text": " so the first two are actually part of the programming"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 378.15999999999997,
+      "end": 381.44,
+      "text": " in introduction to programming and computer science in Python."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 381.44,
+      "end": 385.76,
+      "text": " And the last one deals mostly with the computer science"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 385.76,
+      "end": 387.64,
+      "text": " part, introduction to programming and computer"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 387.64,
+      "end": 389.36,
+      "text": " science in Python."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 389.36,
+      "end": 391.71999999999997,
+      "text": " So we're going to talk about once you've"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 391.71999999999997,
+      "end": 393.36,
+      "text": " learned how to write programs in Python,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 393.36,
+      "end": 395.56,
+      "text": " how do you compare programs in Python?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 395.56,
+      "end": 398.47999999999996,
+      "text": " How do you know that one program is better than the other?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 398.48,
+      "end": 401.44,
+      "text": " How do you know that one program is more efficient than the other?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 401.44,
+      "end": 404.72,
+      "text": " How do you know that one algorithm is better"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 404.72,
+      "end": 405.6,
+      "text": " than the other?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 405.6,
+      "end": 407.52000000000004,
+      "text": " So that's what we're going to talk about"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 407.52000000000004,
+      "end": 410.12,
+      "text": " in the last part of the course."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 410.12,
+      "end": 412.92,
+      "text": " So that's all for the sort of administrative part"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 412.92,
+      "end": 413.64000000000004,
+      "text": " of the course."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 413.64000000000004,
+      "end": 417.04,
+      "text": " So let's start by talking at a high level, what"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 417.04,
+      "end": 419.08000000000004,
+      "text": " does a computer do?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 419.08000000000004,
+      "end": 423.08000000000004,
+      "text": " So fundamentally, it does two things."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 423.08000000000004,
+      "end": 425.92,
+      "text": " One, performs calculations."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 425.92,
+      "end": 427.76,
+      "text": " It performs a lot of calculations."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 427.76,
+      "end": 429.68,
+      "text": " Computers these days are really, really fast."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 429.68,
+      "end": 435.24,
+      "text": " A billion calculations per second is probably not far off."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 435.24,
+      "end": 438.2,
+      "text": " It performs these calculations, and it has to store them"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 438.2,
+      "end": 439.03999999999996,
+      "text": " somewhere, right?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 439.03999999999996,
+      "end": 441.03999999999996,
+      "text": " Stores them in computer memory."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 441.03999999999996,
+      "end": 443.96,
+      "text": " So a computer also has to remember results."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 443.96,
+      "end": 446.28,
+      "text": " And these days, it's not uncommon to find computers"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 446.28,
+      "end": 450.28,
+      "text": " with hundreds of gigabytes of storage."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 450.28,
+      "end": 454.48,
+      "text": " So the kinds of calculations that computers do,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 454.48,
+      "end": 455.36,
+      "text": " there are two kinds."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 455.36,
+      "end": 457.56,
+      "text": " So one are calculations that are built into the language."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 457.56,
+      "end": 460.32,
+      "text": " These are the very low level types of calculations,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 460.32,
+      "end": 463.28000000000003,
+      "text": " things like addition, subtraction, multiplication,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 463.28000000000003,
+      "end": 465.52,
+      "text": " and so on."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 465.52,
+      "end": 467.8,
+      "text": " And once you have a language that"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 467.8,
+      "end": 472.24,
+      "text": " has these sort of primitive calculation types,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 472.24,
+      "end": 474.88,
+      "text": " you as a programmer can put these types together"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 474.88,
+      "end": 478.0,
+      "text": " and then define your own calculations."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 478.0,
+      "end": 480.2,
+      "text": " And then you create new types of calculations,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 480.2,
+      "end": 484.56,
+      "text": " and the computer will be able to perform those as well."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 484.56,
+      "end": 487.68,
+      "text": " And I think one thing I want to stress,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 487.68,
+      "end": 490.2,
+      "text": " and we're going to come back to this again"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 490.2,
+      "end": 492.28000000000003,
+      "text": " during this entire lecture, actually,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 492.28000000000003,
+      "end": 495.68,
+      "text": " is computers only know what you tell them."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 495.68,
+      "end": 498.08,
+      "text": " Computers only do what you tell them to do."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 498.08,
+      "end": 499.84000000000003,
+      "text": " They're not magical."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 499.84000000000003,
+      "end": 502.64,
+      "text": " They don't have a mind."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 502.64,
+      "end": 504.84000000000003,
+      "text": " They just know how to perform calculations really,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 504.84000000000003,
+      "end": 506.32,
+      "text": " really quickly."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 506.32,
+      "end": 509.72,
+      "text": " But you have to tell them what calculations to do."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 509.72,
+      "end": 511.40000000000003,
+      "text": " OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 511.40000000000003,
+      "end": 512.88,
+      "text": " OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 512.88,
+      "end": 514.44,
+      "text": " Computers don't know anything."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 514.44,
+      "end": 515.1600000000001,
+      "text": " All right."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 515.1600000000001,
+      "end": 517.6800000000001,
+      "text": " We've come to that."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 517.6800000000001,
+      "end": 524.28,
+      "text": " So let's go into the types of knowledge."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 524.28,
+      "end": 528.1600000000001,
+      "text": " The first type of knowledge is declarative knowledge."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 528.1600000000001,
+      "end": 530.76,
+      "text": " And those are things like statements of fact."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 530.76,
+      "end": 533.0400000000001,
+      "text": " And this is where my email came into play."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 533.0400000000001,
+      "end": 535.44,
+      "text": " If you read it all the way to the bottom,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 535.44,
+      "end": 537.08,
+      "text": " you would have entered a raffle."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 537.08,
+      "end": 537.96,
+      "text": " OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 538.0,
+      "end": 539.88,
+      "text": " So statement of fact for today's lecture"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 539.88,
+      "end": 543.2800000000001,
+      "text": " is someone will win a prize before class ends."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 543.2800000000001,
+      "end": 547.24,
+      "text": " And the prize was a Google Cardboard, Google State"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 547.24,
+      "end": 549.88,
+      "text": " of the Art virtual reality glasses."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 549.88,
+      "end": 551.6,
+      "text": " And they have them right here."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 551.6,
+      "end": 554.36,
+      "text": " OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 554.36,
+      "end": 555.08,
+      "text": " Yay."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 555.08,
+      "end": 555.96,
+      "text": " OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 555.96,
+      "end": 557.44,
+      "text": " I delivered on my promise."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 557.44,
+      "end": 558.52,
+      "text": " OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 558.52,
+      "end": 560.76,
+      "text": " So that's a statement of fact."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 560.76,
+      "end": 563.48,
+      "text": " So pretend I'm a machine."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 563.48,
+      "end": 566.8000000000001,
+      "text": " I don't know anything except what you tell me."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 566.8399999999999,
+      "end": 568.0799999999999,
+      "text": " So I don't know."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 568.0799999999999,
+      "end": 570.3199999999999,
+      "text": " I know that you tell me the statement."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 570.3199999999999,
+      "end": 571.92,
+      "text": " I'm like, OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 571.92,
+      "end": 573.92,
+      "text": " But how is someone going to win a Google Cardboard"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 573.92,
+      "end": 575.4399999999999,
+      "text": " before class ends?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 575.4399999999999,
+      "end": 577.24,
+      "text": " That's where imperative knowledge comes in."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 577.24,
+      "end": 579.4799999999999,
+      "text": " So imperative knowledge is the recipe, or the how-to,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 579.4799999999999,
+      "end": 581.04,
+      "text": " or the sequence of steps."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 581.04,
+      "end": 582.24,
+      "text": " OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 582.24,
+      "end": 583.76,
+      "text": " Sorry."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 583.76,
+      "end": 587.1999999999999,
+      "text": " That's just my funny for that one."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 587.1999999999999,
+      "end": 593.3599999999999,
+      "text": " So the sequence of steps is imperative knowledge."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 593.36,
+      "end": 597.92,
+      "text": " So if I'm a machine, you need to tell me"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 597.92,
+      "end": 600.76,
+      "text": " how someone will win a Google Cardboard before class."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 600.76,
+      "end": 604.28,
+      "text": " So if I follow these steps, then technically I"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 604.28,
+      "end": 605.28,
+      "text": " should reach a conclusion."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 605.28,
+      "end": 606.16,
+      "text": " OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 606.16,
+      "end": 608.96,
+      "text": " So step one, I think we've already done that."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 608.96,
+      "end": 611.44,
+      "text": " Whoever wanted to sign up has signed up."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 611.44,
+      "end": 613.04,
+      "text": " So now I'm going to open my IDE."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 613.04,
+      "end": 614.6800000000001,
+      "text": " So I'm just basically being a machine"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 614.6800000000001,
+      "end": 617.6,
+      "text": " and following the steps that you've told me."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 617.6,
+      "end": 622.0,
+      "text": " So the IDE that we're using in this class is called Anaconda."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 622.0,
+      "end": 624.88,
+      "text": " Let me just scroll down to the bottom."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 624.88,
+      "end": 625.36,
+      "text": " OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 625.36,
+      "end": 628.48,
+      "text": " Hopefully you've installed it in problem set 0."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 628.48,
+      "end": 630.6,
+      "text": " So I've opened my IDE."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 630.6,
+      "end": 633.96,
+      "text": " I'm going to follow the next set of instructions."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 633.96,
+      "end": 636.2,
+      "text": " I'm going to choose a random number between the first"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 636.2,
+      "end": 637.64,
+      "text": " and the nth responder."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 637.64,
+      "end": 639.44,
+      "text": " OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 639.44,
+      "end": 642.44,
+      "text": " Now I'm going to actually use Python to do this."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 642.44,
+      "end": 645.68,
+      "text": " And this is also an example of how just a really simple task"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 645.68,
+      "end": 647.8,
+      "text": " in your life, you can use computers or programming"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 647.8,
+      "end": 648.64,
+      "text": " to do that."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 648.64,
+      "end": 650.2,
+      "text": " Because if I chose a random number,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 650.2,
+      "end": 651.84,
+      "text": " I might be biased, because for example,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 651.84,
+      "end": 653.72,
+      "text": " you might like the number 8."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 653.72,
+      "end": 655.24,
+      "text": " So to choose a random number, I'm"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 655.24,
+      "end": 658.72,
+      "text": " going to go and say, OK, where's the list of responders?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 658.72,
+      "end": 659.8000000000001,
+      "text": " It starts at 15."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 659.8000000000001,
+      "end": 662.96,
+      "text": " Actually, it starts at 16, because that's me."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 662.96,
+      "end": 665.48,
+      "text": " So we're going to choose a random number between 16"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 665.48,
+      "end": 669.2800000000001,
+      "text": " and the end person 266."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 669.2800000000001,
+      "end": 673.36,
+      "text": " Oh, we just got, oh, OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 673.36,
+      "end": 675.84,
+      "text": " OK, I'm going to cut it off right here, 271."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 675.84,
+      "end": 678.48,
+      "text": " OK, 16 and 271."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 678.48,
+      "end": 679.36,
+      "text": " Perfect."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 679.36,
+      "end": 680.4000000000001,
+      "text": " OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 680.4,
+      "end": 681.72,
+      "text": " So I'm going to choose a random number."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 681.72,
+      "end": 682.92,
+      "text": " So I'm going to go to my ID."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 682.92,
+      "end": 684.48,
+      "text": " And you don't need to know how to do this yet."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 684.48,
+      "end": 686.0,
+      "text": " But by the end of this class, you will."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 686.0,
+      "end": 689.28,
+      "text": " So I'm just going to use Python."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 689.28,
+      "end": 691.56,
+      "text": " I'm just going to get the random number package that's"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 691.56,
+      "end": 692.92,
+      "text": " going to get me a random number."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 692.92,
+      "end": 696.04,
+      "text": " So I'm going to say random.randint."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 696.04,
+      "end": 700.76,
+      "text": " And I'm going to choose a random number between 16 and 272."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 700.76,
+      "end": 702.4399999999999,
+      "text": " OK, 75."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 702.4399999999999,
+      "end": 704.36,
+      "text": " OK, great."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 704.36,
+      "end": 705.88,
+      "text": " So I chose a random number."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 705.88,
+      "end": 708.88,
+      "text": " And I'm going to find the number in the responders sheet."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 708.88,
+      "end": 709.88,
+      "text": " What was the number again?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 709.88,
+      "end": 711.0,
+      "text": " Sorry."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 711.0,
+      "end": 712.0,
+      "text": " 75."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 712.0,
+      "end": 714.0,
+      "text": " OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 714.0,
+      "end": 716.08,
+      "text": " Up we go."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 716.08,
+      "end": 717.64,
+      "text": " There we go."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 717.64,
+      "end": 722.32,
+      "text": " Lauren, Z-O-V. Yeah, nice."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 722.32,
+      "end": 723.8,
+      "text": " You're here."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 723.8,
+      "end": 724.3,
+      "text": " Yeah."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 734.16,
+      "end": 736.76,
+      "text": " Awesome."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 736.76,
+      "end": 737.68,
+      "text": " All right."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 737.68,
+      "end": 740.68,
+      "text": " So that's an example of me being a machine, right?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 740.68,
+      "end": 743.8399999999999,
+      "text": " And also at the same time using Python in just my everyday life,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 743.8399999999999,
+      "end": 748.0,
+      "text": " just lecturing, just to find a random number, right?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 748.0,
+      "end": 750.3199999999999,
+      "text": " So just try to use Python wherever you can."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 750.3199999999999,
+      "end": 752.4399999999999,
+      "text": " And that just gives you practice."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 752.4399999999999,
+      "end": 753.28,
+      "text": " OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 753.28,
+      "end": 755.7199999999999,
+      "text": " So that was fun."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 755.7199999999999,
+      "end": 759.04,
+      "text": " But we're MIT students, right?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 759.04,
+      "end": 761.7199999999999,
+      "text": " And we love numbers here at MIT, right?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 761.7199999999999,
+      "end": 764.76,
+      "text": " So here's a numerical example that"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 764.76,
+      "end": 766.9599999999999,
+      "text": " shows the difference between declarative and imperative"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 766.96,
+      "end": 767.9200000000001,
+      "text": " knowledge."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 767.9200000000001,
+      "end": 770.0,
+      "text": " So I want to find the square root of a number."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 770.0,
+      "end": 771.48,
+      "text": " An example of declarative knowledge"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 771.48,
+      "end": 773.48,
+      "text": " is the square root of a number x is y,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 773.48,
+      "end": 776.2800000000001,
+      "text": " such that y times y is equal to x."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 776.2800000000001,
+      "end": 777.0,
+      "text": " OK?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 777.0,
+      "end": 778.48,
+      "text": " That's just a statement of fact."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 778.48,
+      "end": 781.2,
+      "text": " It's true."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 781.2,
+      "end": 781.9200000000001,
+      "text": " Imperative null."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 781.9200000000001,
+      "end": 786.12,
+      "text": " So computers don't know what to do with that, right?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 786.12,
+      "end": 787.96,
+      "text": " They don't know what to do with that statement."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 787.96,
+      "end": 790.8000000000001,
+      "text": " But computers do know how to follow a recipe."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 790.8000000000001,
+      "end": 793.64,
+      "text": " So here's a well-known algorithm to find"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 793.64,
+      "end": 796.5600000000001,
+      "text": " the square root of a number, x."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 796.56,
+      "end": 798.1199999999999,
+      "text": " Let's say x is originally 16."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 801.3199999999999,
+      "end": 804.76,
+      "text": " So if a computer follows this algorithm,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 804.76,
+      "end": 808.5999999999999,
+      "text": " it's going to start with a guess g, let's say 3, right?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 808.5999999999999,
+      "end": 810.8399999999999,
+      "text": " We're trying to find the square root of 16."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 810.8399999999999,
+      "end": 814.3199999999999,
+      "text": " We're going to calculate g times g is 9, right?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 814.3199999999999,
+      "end": 817.16,
+      "text": " And we're going to ask, if g times g is close enough to x,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 817.16,
+      "end": 819.56,
+      "text": " then stop and say g is the answer."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 819.56,
+      "end": 822.16,
+      "text": " I'm not really happy with 9 being really close to 16,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 822.16,
+      "end": 822.7199999999999,
+      "text": " right?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 822.7199999999999,
+      "end": 824.4799999999999,
+      "text": " So I'm going to say, I'm not stopping here."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 824.48,
+      "end": 826.88,
+      "text": " I'm going to keep going."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 826.88,
+      "end": 828.6800000000001,
+      "text": " So if it's not close enough, then I'm"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 828.6800000000001,
+      "end": 832.72,
+      "text": " going to make a new guess by averaging g and x over g."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 832.72,
+      "end": 837.16,
+      "text": " So that's x over g here, and that's the average over there."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 837.16,
+      "end": 840.12,
+      "text": " And the new average is going to be my new guess."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 844.32,
+      "end": 845.44,
+      "text": " And that's what it says."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 845.44,
+      "end": 847.6800000000001,
+      "text": " And then the last step is using the new guess,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 847.6800000000001,
+      "end": 848.64,
+      "text": " repeat the process."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 848.64,
+      "end": 850.64,
+      "text": " So then we go back to the beginning"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 850.64,
+      "end": 853.6,
+      "text": " and repeat the whole process over and over again."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 853.6,
+      "end": 855.16,
+      "text": " And that's what the rest of the rows does."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 855.16,
+      "end": 856.28,
+      "text": " And you keep doing this until you"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 856.28,
+      "end": 857.52,
+      "text": " decide that you're close enough."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 860.44,
+      "end": 865.12,
+      "text": " OK, so then what we saw for the imperative knowledge"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 865.12,
+      "end": 866.6,
+      "text": " in the previous numerical example"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 866.6,
+      "end": 870.52,
+      "text": " was the recipe for how to find the square root of x."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 870.52,
+      "end": 873.24,
+      "text": " So what were the three parts to the recipe?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 873.24,
+      "end": 876.08,
+      "text": " One was a simple sequence of steps."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 876.08,
+      "end": 879.24,
+      "text": " There were four steps, pretty much."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 879.24,
+      "end": 881.48,
+      "text": " The other was a flow of control."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 881.48,
+      "end": 885.36,
+      "text": " So there were parts where we made decisions."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 885.36,
+      "end": 886.96,
+      "text": " Are we close enough?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 886.96,
+      "end": 889.16,
+      "text": " There were parts where we repeated some steps."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 889.16,
+      "end": 892.76,
+      "text": " So at the end, we said repeat steps one, two, three."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 892.76,
+      "end": 895.32,
+      "text": " So that's the flow of control."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 895.32,
+      "end": 898.32,
+      "text": " And the last part of the recipe was a way to stop."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 898.32,
+      "end": 900.64,
+      "text": " You don't want a program that keeps going and going."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 900.64,
+      "end": 904.0,
+      "text": " Or for a recipe, you don't want to keep baking bread forever."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 904.0,
+      "end": 905.32,
+      "text": " You want to stop at some point."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 905.32,
+      "end": 907.8000000000001,
+      "text": " 10 breads is enough."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 907.8000000000001,
+      "end": 910.24,
+      "text": " So you have to have a way of stopping."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 910.24,
+      "end": 912.76,
+      "text": " In the previous example, the way of stopping"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 912.76,
+      "end": 915.2,
+      "text": " was that we decided we were close enough."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 915.2,
+      "end": 920.36,
+      "text": " Close enough was maybe being within 0.01, 0.0001,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 920.36,
+      "end": 923.6800000000001,
+      "text": " whatever you pick."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 923.6800000000001,
+      "end": 926.44,
+      "text": " So this recipe is, therefore, an algorithm."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 926.44,
+      "end": 929.28,
+      "text": " In computer science speak, it's going to be an algorithm."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 929.28,
+      "end": 931.64,
+      "text": " And that's what we're going to learn about in this class."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 934.2,
+      "end": 935.76,
+      "text": " So we're dealing with computers."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 935.76,
+      "end": 939.64,
+      "text": " And we actually want to capture a recipe inside a computer,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 939.64,
+      "end": 941.36,
+      "text": " a computer being a mechanical process."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 941.36,
+      "end": 949.72,
+      "text": " And historically, there were two ways of,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 949.72,
+      "end": 953.68,
+      "text": " historically, there were two different types of computers."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 953.68,
+      "end": 957.68,
+      "text": " So originally, there were these things"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 957.68,
+      "end": 959.72,
+      "text": " called six-program computers."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 959.72,
+      "end": 962.08,
+      "text": " And I'm old enough to have used something"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 962.08,
+      "end": 965.76,
+      "text": " like this, where there's just numbers and plus,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 965.76,
+      "end": 968.88,
+      "text": " minus, multiplication, divide, and equal."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 968.88,
+      "end": 971.32,
+      "text": " But calculators these days are a lot more complicated."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 971.32,
+      "end": 975.36,
+      "text": " But way back then, an example of a fixed-program computer"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 975.36,
+      "end": 976.2,
+      "text": " is this calculator."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 976.2,
+      "end": 979.08,
+      "text": " It only knows how to do addition, multiplication,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 979.08,
+      "end": 980.68,
+      "text": " subtraction, division."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 980.68,
+      "end": 982.4399999999999,
+      "text": " If you want to plot something, you can't."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 982.4399999999999,
+      "end": 987.0,
+      "text": " If you want to go on the internet, set email with it,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 987.0,
+      "end": 987.72,
+      "text": " you can't."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 987.72,
+      "end": 990.88,
+      "text": " It can only do this one thing."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 990.88,
+      "end": 993.6,
+      "text": " And if you wanted to create a machine that did another thing,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 993.6,
+      "end": 997.32,
+      "text": " then you'd have to create another fixed-program computer"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 997.32,
+      "end": 999.8000000000001,
+      "text": " that did a completely separate task."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 999.8000000000001,
+      "end": 1001.72,
+      "text": " So that's not very great."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1001.72,
+      "end": 1005.84,
+      "text": " So that's when stored-program computers came into play."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1005.84,
+      "end": 1007.24,
+      "text": " And these were machines that could"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1007.24,
+      "end": 1010.48,
+      "text": " store a sequence of instructions."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1010.48,
+      "end": 1013.5600000000001,
+      "text": " And these machines could execute the sequence"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1013.5600000000001,
+      "end": 1014.6400000000001,
+      "text": " of instructions."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1014.6400000000001,
+      "end": 1016.72,
+      "text": " And you could change the sequence of instructions"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1016.72,
+      "end": 1020.08,
+      "text": " and execute this different sequence of instructions."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1020.08,
+      "end": 1025.0,
+      "text": " So you could do different tasks in the same machine."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1025.0,
+      "end": 1027.24,
+      "text": " And that's the computer as we know it these days."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1027.24,
+      "end": 1029.68,
+      "text": " So the central processing unit is"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1029.68,
+      "end": 1031.6,
+      "text": " where all of these decisions get made."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1031.6,
+      "end": 1036.2,
+      "text": " And these are all the peripherals."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1036.2,
+      "end": 1037.88,
+      "text": " So the basic machine architecture."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1037.88,
+      "end": 1040.0,
+      "text": " So at the heart of every computer,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1040.0,
+      "end": 1045.24,
+      "text": " there's just this basic architecture."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1045.24,
+      "end": 1048.48,
+      "text": " And it contains, I guess, four main parts."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1048.48,
+      "end": 1051.52,
+      "text": " So the first is the memory."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1051.52,
+      "end": 1054.64,
+      "text": " Input and output is the other one."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1054.68,
+      "end": 1059.96,
+      "text": " The ALU is where all of the operations are done."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1059.96,
+      "end": 1061.5600000000002,
+      "text": " And the operations that the ALU can do"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1061.5600000000002,
+      "end": 1064.64,
+      "text": " are these really primitive operations, subtraction,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1064.64,
+      "end": 1066.4,
+      "text": " and so on."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1066.4,
+      "end": 1072.6000000000001,
+      "text": " So what the memory contains is a bunch of data"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1072.6000000000001,
+      "end": 1074.88,
+      "text": " and your sequence of instructions."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1080.5200000000002,
+      "end": 1082.92,
+      "text": " So interacting with the arithmetic logic unit"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1082.92,
+      "end": 1083.8400000000001,
+      "text": " is the control unit."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1083.84,
+      "end": 1087.0,
+      "text": " And the control unit contains one program counter."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1087.0,
+      "end": 1089.8799999999999,
+      "text": " So when you load a sequence of instructions,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1089.8799999999999,
+      "end": 1093.6799999999998,
+      "text": " the program counter starts at the first sequence."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1093.6799999999998,
+      "end": 1097.1999999999998,
+      "text": " It gets what the first starts at the sequence,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1097.1999999999998,
+      "end": 1098.48,
+      "text": " at the first instruction."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1098.48,
+      "end": 1102.1599999999999,
+      "text": " It gets what the instruction is, and it sends it to the ALU."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1102.1599999999999,
+      "end": 1105.8799999999999,
+      "text": " The ALU asks, what are we doing operations on here?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1105.8799999999999,
+      "end": 1107.24,
+      "text": " What's happening?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1107.24,
+      "end": 1108.9599999999998,
+      "text": " So it might get some data."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1108.9599999999998,
+      "end": 1110.8,
+      "text": " If you're adding two numbers, it might get"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1110.8,
+      "end": 1113.28,
+      "text": " two numbers from memory."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1113.28,
+      "end": 1115.96,
+      "text": " It might do some operations, and it might store data back"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1115.96,
+      "end": 1117.92,
+      "text": " into memory."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1117.92,
+      "end": 1121.68,
+      "text": " And after it's done, the ALU is going to go back,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1121.68,
+      "end": 1124.56,
+      "text": " and the program counter is going to increase by one, which"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1124.56,
+      "end": 1127.32,
+      "text": " means that we're going to go to the next sequence"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1127.32,
+      "end": 1130.16,
+      "text": " in the instruction set."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1130.16,
+      "end": 1133.8,
+      "text": " And it just goes linearly instruction by instruction."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1133.8,
+      "end": 1136.28,
+      "text": " There might be one particular instruction"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1136.28,
+      "end": 1138.04,
+      "text": " that does some sort of test."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1138.04,
+      "end": 1147.44,
+      "text": " It's going to say, is this particular value greater"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1147.44,
+      "end": 1151.1599999999999,
+      "text": " or equal to or the same as this other particular value?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1151.1599999999999,
+      "end": 1153.08,
+      "text": " So that's a test, an example of a test."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1153.08,
+      "end": 1157.6,
+      "text": " And the test is going to either return true or false."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1157.6,
+      "end": 1160.8,
+      "text": " And depending on the result of that test,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1160.8,
+      "end": 1164.48,
+      "text": " you might either go to the next instruction,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1164.48,
+      "end": 1166.12,
+      "text": " or you might set the program counter"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1166.12,
+      "end": 1167.92,
+      "text": " to go all the way back to the beginning"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1167.96,
+      "end": 1169.68,
+      "text": " and so on."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1169.68,
+      "end": 1172.24,
+      "text": " So you're not just sort of linearly stepping"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1172.24,
+      "end": 1173.44,
+      "text": " through all the instructions."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1173.44,
+      "end": 1175.3600000000001,
+      "text": " There might be some control flow involved,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1175.3600000000001,
+      "end": 1176.8200000000002,
+      "text": " where you might skip an instruction"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1176.8200000000002,
+      "end": 1179.72,
+      "text": " or start from the beginning or so on."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1179.72,
+      "end": 1182.4,
+      "text": " And after you're done, when you finished"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1182.4,
+      "end": 1184.52,
+      "text": " executing the last instruction, then you"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1184.52,
+      "end": 1187.04,
+      "text": " might output something."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1187.04,
+      "end": 1193.2,
+      "text": " So that's really the basic way that a computer works."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1193.2,
+      "end": 1195.76,
+      "text": " So just to recap, you have the stored program computer"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1195.76,
+      "end": 1199.12,
+      "text": " that contains these sequences of instructions."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1199.12,
+      "end": 1200.92,
+      "text": " The primitive operations that it can do"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1200.92,
+      "end": 1206.0,
+      "text": " are addition, subtraction, logic operations, tests,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1206.0,
+      "end": 1208.8,
+      "text": " which are something equal to something else, something"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1208.8,
+      "end": 1210.96,
+      "text": " less than and so on, and moving data,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1210.96,
+      "end": 1214.36,
+      "text": " so storing data, moving data around, and things like that."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1214.36,
+      "end": 1219.92,
+      "text": " And the interpreter goes through every instruction"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1219.92,
+      "end": 1222.42,
+      "text": " and decides whether you're going to go to the next instruction,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1222.42,
+      "end": 1225.8600000000001,
+      "text": " skip instructions, or repeat instructions, and so on."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1228.8200000000002,
+      "end": 1230.54,
+      "text": " So we talked about primitives."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1230.54,
+      "end": 1235.3000000000002,
+      "text": " And in fact, Alan Turing was a really great computer"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1235.3000000000002,
+      "end": 1235.8000000000002,
+      "text": " scientist."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1235.8000000000002,
+      "end": 1237.3400000000001,
+      "text": " He showed that you can compute anything"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1237.3400000000001,
+      "end": 1238.8600000000001,
+      "text": " using the six primitives."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1238.8600000000001,
+      "end": 1246.5800000000002,
+      "text": " And the six primitives are move left, move right, read right,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1246.5800000000002,
+      "end": 1248.94,
+      "text": " scan, and do nothing."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1248.94,
+      "end": 1254.42,
+      "text": " So using those six instructions and a piece of tape,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1254.42,
+      "end": 1257.3,
+      "text": " he showed that you can compute anything."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1257.3,
+      "end": 1260.3400000000001,
+      "text": " And using those six instructions,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1260.3400000000001,
+      "end": 1263.06,
+      "text": " programming languages came about that"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1263.06,
+      "end": 1264.94,
+      "text": " created a more convenient set of primitives."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1264.94,
+      "end": 1268.38,
+      "text": " So you don't have to program in only these six commands."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1271.46,
+      "end": 1276.02,
+      "text": " And one interesting thing, or one really important thing,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1276.02,
+      "end": 1279.22,
+      "text": " that came about from these six primitives"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1279.22,
+      "end": 1282.26,
+      "text": " is that if you can compute something in Python,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1282.26,
+      "end": 1285.1,
+      "text": " let's say, if you write a program that"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1285.1,
+      "end": 1288.62,
+      "text": " computes something in Python, then in theory,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1288.62,
+      "end": 1291.26,
+      "text": " you can write a program that computes the exact same thing"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1291.26,
+      "end": 1292.58,
+      "text": " in any other language."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1292.58,
+      "end": 1296.7,
+      "text": " And that's a really powerful statement."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1296.7,
+      "end": 1299.62,
+      "text": " Think about that today when you review your slides."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1299.62,
+      "end": 1300.58,
+      "text": " Think about that again."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1300.58,
+      "end": 1301.94,
+      "text": " And that's really powerful."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1302.18,
+      "end": 1305.06,
+      "text": " OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1305.06,
+      "end": 1308.5,
+      "text": " So once you have your set of primitives,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1308.5,
+      "end": 1312.38,
+      "text": " you can set of primitives for a particular language,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1312.38,
+      "end": 1314.02,
+      "text": " you can start creating expressions."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1314.02,
+      "end": 1316.78,
+      "text": " And these expressions are going to be combinations"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1316.78,
+      "end": 1320.46,
+      "text": " of the primitives in the programming language."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1320.46,
+      "end": 1322.74,
+      "text": " And the expressions are going to have some value."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1322.74,
+      "end": 1324.8200000000002,
+      "text": " And they're going to have some meaning"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1324.8200000000002,
+      "end": 1328.1000000000001,
+      "text": " in the programming language."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1328.1000000000001,
+      "end": 1330.5800000000002,
+      "text": " So let's do a little bit of a parallel with English,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1330.58,
+      "end": 1333.86,
+      "text": " just so you see what I mean."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1333.86,
+      "end": 1335.5,
+      "text": " So in English, the primitive constructs"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1335.5,
+      "end": 1337.1,
+      "text": " are going to be words."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1337.1,
+      "end": 1339.1799999999998,
+      "text": " There's a lot of words in the English language."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1339.1799999999998,
+      "end": 1342.98,
+      "text": " Programming languages in Python, there are primitives,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1342.98,
+      "end": 1344.22,
+      "text": " but there aren't as many of them."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1344.22,
+      "end": 1350.6999999999998,
+      "text": " So there are floats, booleans, these are numbers, strings,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1350.6999999999998,
+      "end": 1352.6599999999999,
+      "text": " and simple operators like addition, subtraction,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1352.6599999999999,
+      "end": 1354.58,
+      "text": " and so on."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1354.58,
+      "end": 1355.1399999999999,
+      "text": " OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1355.1399999999999,
+      "end": 1358.1799999999998,
+      "text": " So we have primitive constructs."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1358.1799999999998,
+      "end": 1359.78,
+      "text": " Using these primitive constructs,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1359.78,
+      "end": 1368.18,
+      "text": " we can start creating, in English, phrases, sentences."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1368.18,
+      "end": 1369.7,
+      "text": " And the same in programming languages."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1369.7,
+      "end": 1374.34,
+      "text": " So in English, we can say something like, cat dog boy."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1374.34,
+      "end": 1378.26,
+      "text": " That, we say, is not syntactically valid."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1378.26,
+      "end": 1380.26,
+      "text": " So that's bad syntax."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1380.26,
+      "end": 1381.8999999999999,
+      "text": " That's noun, noun, noun."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1381.8999999999999,
+      "end": 1385.1399999999999,
+      "text": " That doesn't make sense."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1385.1399999999999,
+      "end": 1388.94,
+      "text": " What does have good syntax in English is noun, verb, noun."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1388.94,
+      "end": 1392.78,
+      "text": " So cat hugs boy is syntactically valid."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1392.78,
+      "end": 1396.06,
+      "text": " Similarly, in a programming language, something like this,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1396.06,
+      "end": 1399.42,
+      "text": " in Python in this case, a word and then the number five"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1399.42,
+      "end": 1400.46,
+      "text": " doesn't really make sense."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1400.46,
+      "end": 1401.98,
+      "text": " It's not syntactically valid."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1401.98,
+      "end": 1408.02,
+      "text": " But something like operator, operand, operator is OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1408.02,
+      "end": 1414.46,
+      "text": " So once you've created these phrases or these expressions"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1414.46,
+      "end": 1417.22,
+      "text": " that are syntactically valid, you"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1417.22,
+      "end": 1421.78,
+      "text": " have to think about the static semantics of your phrase,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1421.78,
+      "end": 1424.98,
+      "text": " of your expression."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1424.98,
+      "end": 1431.26,
+      "text": " So for example, in English, I are hungry is good syntax."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1431.26,
+      "end": 1435.3,
+      "text": " But it's kind of weird to say."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1435.3,
+      "end": 1437.94,
+      "text": " We have a pronoun, a verb, and an adjective,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1437.94,
+      "end": 1439.74,
+      "text": " which doesn't really make sense."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1439.74,
+      "end": 1441.38,
+      "text": " I am hungry is better."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1441.38,
+      "end": 1447.2600000000002,
+      "text": " So this does not have good static semantics."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1447.2600000000002,
+      "end": 1449.0200000000002,
+      "text": " Similarly, in programming languages,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1449.0200000000002,
+      "end": 1452.6200000000001,
+      "text": " and you'll get the hang of this the more you do it,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1452.6200000000001,
+      "end": 1455.8200000000002,
+      "text": " something like this, 3.2 times 5 is OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1455.8200000000002,
+      "end": 1457.38,
+      "text": " But what does it mean?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1457.38,
+      "end": 1462.3000000000002,
+      "text": " What's the meaning to have a word added to a number?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1462.3000000000002,
+      "end": 1466.18,
+      "text": " There's no meaning behind that."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1466.18,
+      "end": 1470.1000000000001,
+      "text": " Syntax is OK because you have operator, operand, operator."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1470.1,
+      "end": 1472.74,
+      "text": " But it doesn't really make sense to add a number to a word,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1472.74,
+      "end": 1473.26,
+      "text": " for example."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1476.5,
+      "end": 1479.9399999999998,
+      "text": " So once you have created these expressions that"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1479.9399999999998,
+      "end": 1485.86,
+      "text": " are syntactically correct and static semantically correct,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1485.86,
+      "end": 1488.82,
+      "text": " in English, for example, you think about the semantics."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1488.82,
+      "end": 1490.74,
+      "text": " So what's the meaning of the phrase?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1490.74,
+      "end": 1493.06,
+      "text": " And in English, you can actually have more than one meaning"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1493.06,
+      "end": 1495.9399999999998,
+      "text": " to an entire phrase."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1495.9399999999998,
+      "end": 1498.74,
+      "text": " So in this case, flying planes are dangerous,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1498.74,
+      "end": 1501.34,
+      "text": " or flying planes can be dangerous,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1501.34,
+      "end": 1504.98,
+      "text": " can have two meanings, is the act of flying a plane is dangerous,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1504.98,
+      "end": 1508.82,
+      "text": " or the plane that is in the air is dangerous."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1508.82,
+      "end": 1510.66,
+      "text": " And this might be a cuter example."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1510.66,
+      "end": 1513.7,
+      "text": " This reading lamp hasn't uttered a word since I bought it."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1513.7,
+      "end": 1515.14,
+      "text": " What's going on?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1515.14,
+      "end": 1516.38,
+      "text": " So that has two meanings."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1516.38,
+      "end": 1520.02,
+      "text": " It's playing on the word reading lamp."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1520.02,
+      "end": 1521.86,
+      "text": " In programming, so that's in English."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1521.86,
+      "end": 1523.22,
+      "text": " In English, you can have a sentence"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1523.22,
+      "end": 1524.74,
+      "text": " that has more than one meaning."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1524.74,
+      "end": 1528.14,
+      "text": " That's syntactically correct and static semantically correct."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1528.14,
+      "end": 1530.5400000000002,
+      "text": " But in programming languages, the program"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1530.5400000000002,
+      "end": 1532.8600000000001,
+      "text": " that you write, the set of instructions that you write,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1532.8600000000001,
+      "end": 1533.98,
+      "text": " only has one meaning."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1533.98,
+      "end": 1535.74,
+      "text": " So remember, we're coming back to the fact"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1535.74,
+      "end": 1540.1000000000001,
+      "text": " that the computer only does what you tell it to do."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1540.1000000000001,
+      "end": 1542.26,
+      "text": " It's not going to suddenly decide"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1542.26,
+      "end": 1546.42,
+      "text": " to add another variable for some reason."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1546.42,
+      "end": 1548.3400000000001,
+      "text": " It's just going to execute whatever"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1548.3400000000001,
+      "end": 1550.8200000000002,
+      "text": " statements you've put up."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1550.8200000000002,
+      "end": 1553.0600000000002,
+      "text": " So in programming languages, there's only one meaning."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1553.0600000000002,
+      "end": 1557.6200000000001,
+      "text": " But the problem that comes into play"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1557.62,
+      "end": 1559.6999999999998,
+      "text": " in programming languages is it's not the meaning"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1559.6999999999998,
+      "end": 1562.9399999999998,
+      "text": " that you might have intended as the programmer."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1562.9399999999998,
+      "end": 1566.1,
+      "text": " So that's where things can go wrong."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1566.1,
+      "end": 1568.4599999999998,
+      "text": " And there's going to be a lecture on debugging"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1568.4599999999998,
+      "end": 1569.86,
+      "text": " a little bit later in the course."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1569.86,
+      "end": 1572.86,
+      "text": " But this is here just to tell you"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1572.86,
+      "end": 1576.02,
+      "text": " that if you see an error pop up in your program,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1576.02,
+      "end": 1581.1,
+      "text": " it's just some text that says error."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1581.1,
+      "end": 1583.34,
+      "text": " For example, if we do something like this."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1588.54,
+      "end": 1590.86,
+      "text": " This is syntactically incorrect."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1590.86,
+      "end": 1592.26,
+      "text": " Incorrect, syntactically incorrect."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1592.26,
+      "end": 1596.02,
+      "text": " See, there's some angry text right here."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1596.02,
+      "end": 1597.6599999999999,
+      "text": " What is going on?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1597.6599999999999,
+      "end": 1599.6999999999998,
+      "text": " The more you program, you'll get the hang"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1599.6999999999998,
+      "end": 1601.1799999999998,
+      "text": " of reading these errors."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1601.1799999999998,
+      "end": 1603.8799999999999,
+      "text": " But this is basically telling me the line that I wrote"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1603.8799999999999,
+      "end": 1605.82,
+      "text": " is syntactically incorrect."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1605.82,
+      "end": 1607.4599999999998,
+      "text": " And it's pointing me to the exact line"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1607.4599999999998,
+      "end": 1609.1399999999999,
+      "text": " and says this is wrong."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1609.1399999999999,
+      "end": 1612.02,
+      "text": " So I can go back and fix it as a programmer."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1615.3,
+      "end": 1617.1399999999999,
+      "text": " So syntax errors are actually really easily"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1617.14,
+      "end": 1619.18,
+      "text": " caught by Python."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1619.18,
+      "end": 1620.6200000000001,
+      "text": " Static semantic errors."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1620.6200000000001,
+      "end": 1622.8200000000002,
+      "text": " So that was an example of a syntax error."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1622.8200000000002,
+      "end": 1625.46,
+      "text": " Static semantic errors can also be caught by Python"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1625.46,
+      "end": 1631.22,
+      "text": " as long as, if your program has some decisions to make,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1631.22,
+      "end": 1633.94,
+      "text": " as long as you've gone down the branch where"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1633.94,
+      "end": 1638.0600000000002,
+      "text": " the static semantic error happens."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1638.0600000000002,
+      "end": 1642.1000000000001,
+      "text": " And this is probably going to be the most frustrating one,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1642.1000000000001,
+      "end": 1643.94,
+      "text": " especially as you're starting out."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1643.94,
+      "end": 1645.5600000000002,
+      "text": " The program might do something different"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1645.56,
+      "end": 1647.72,
+      "text": " than what you expected it to do."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1647.72,
+      "end": 1652.28,
+      "text": " And that's not because the program suddenly, for example,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1652.28,
+      "end": 1654.44,
+      "text": " you expected the program to give you an output of 0"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1654.44,
+      "end": 1655.84,
+      "text": " for a certain test case."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1655.84,
+      "end": 1658.08,
+      "text": " And the output that you got was 10."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1658.08,
+      "end": 1660.04,
+      "text": " Well, the program didn't suddenly decide to change"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1660.04,
+      "end": 1662.36,
+      "text": " its answer to 10."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1662.36,
+      "end": 1665.96,
+      "text": " It just executed the program that you wrote."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1665.96,
+      "end": 1670.6399999999999,
+      "text": " So that's the case where the program gave you"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1670.6399999999999,
+      "end": 1673.2,
+      "text": " a different answer than expected."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1673.2,
+      "end": 1675.56,
+      "text": " Programs might crash, which means they stop running."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1675.56,
+      "end": 1677.8,
+      "text": " That's OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1677.8,
+      "end": 1680.44,
+      "text": " Just go back to your code and figure out what was wrong."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1680.44,
+      "end": 1683.64,
+      "text": " And another example of different meaning"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1683.64,
+      "end": 1686.8,
+      "text": " than what you intended was maybe the program won't stop."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1686.8,
+      "end": 1687.56,
+      "text": " It's also OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1687.56,
+      "end": 1690.04,
+      "text": " There are ways to stop it besides restarting"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1690.04,
+      "end": 1692.92,
+      "text": " the computer."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1692.92,
+      "end": 1697.76,
+      "text": " So then Python programs are going"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1697.76,
+      "end": 1700.24,
+      "text": " to be sequences of definitions and commands."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1700.24,
+      "end": 1705.04,
+      "text": " We're going to have expressions that are going to be evaluated"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1705.04,
+      "end": 1712.96,
+      "text": " and commands that tell the interpreter to do something."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1712.96,
+      "end": 1715.4,
+      "text": " So if you've done problem set 0, you'll"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1715.4,
+      "end": 1719.32,
+      "text": " see that you can type commands directly in the shell here,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1719.32,
+      "end": 1720.96,
+      "text": " which is the part on the right where I did"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1720.96,
+      "end": 1724.48,
+      "text": " some really simple things, 2 plus 4."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1724.48,
+      "end": 1729.48,
+      "text": " Or you can type commands up in here on the left-hand side"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1729.48,
+      "end": 1732.4,
+      "text": " and then run your program."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1732.4,
+      "end": 1734.96,
+      "text": " Notice that, well, we'll talk about this."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1734.96,
+      "end": 1738.28,
+      "text": " I won't talk about this now."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1738.28,
+      "end": 1741.32,
+      "text": " On the right-hand side, typically you write very simple commands,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1741.32,
+      "end": 1743.04,
+      "text": " just if you're testing something out."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1743.04,
+      "end": 1744.84,
+      "text": " And on the left-hand side here in the editor,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1744.84,
+      "end": 1749.96,
+      "text": " you write more lines and more complicated programs."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1754.96,
+      "end": 1758.72,
+      "text": " So now we're going to start talking about Python."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1758.76,
+      "end": 1760.76,
+      "text": " And in Python, we're going to come back to this."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1760.76,
+      "end": 1763.52,
+      "text": " Everything is an object."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1763.52,
+      "end": 1767.92,
+      "text": " And Python programs manipulate these data objects."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1767.92,
+      "end": 1770.88,
+      "text": " All objects in Python are going to have a type."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1770.88,
+      "end": 1774.0,
+      "text": " And the type is going to tell Python the kinds of operations"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1774.0,
+      "end": 1776.8,
+      "text": " that you can do on these objects."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1776.8,
+      "end": 1779.84,
+      "text": " So if an object is the number 5, for example,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1779.84,
+      "end": 1782.92,
+      "text": " you can add the number to another number,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1782.92,
+      "end": 1787.24,
+      "text": " subtract the number, take it to the power of something, and so on."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1787.24,
+      "end": 1791.52,
+      "text": " As a more general example, for example, I am a human."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1791.52,
+      "end": 1792.92,
+      "text": " So that's my type."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1792.92,
+      "end": 1795.64,
+      "text": " And I can walk, speak English, et cetera."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1795.64,
+      "end": 1799.76,
+      "text": " Chewbacca is going to be a type Wookie."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1799.76,
+      "end": 1802.68,
+      "text": " So he can walk, do that sound that I can't do."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1802.68,
+      "end": 1804.0,
+      "text": " So he can do that, but I can't."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1804.0,
+      "end": 1805.68,
+      "text": " I'm not even going to try."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1805.68,
+      "end": 1806.48,
+      "text": " And so on."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1809.52,
+      "end": 1811.2,
+      "text": " So once you have these Python objects,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1811.2,
+      "end": 1812.48,
+      "text": " everything is an object in Python."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1815.04,
+      "end": 1816.68,
+      "text": " There are actually two types of objects."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1816.68,
+      "end": 1817.96,
+      "text": " One are scalar objects."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1817.96,
+      "end": 1820.3200000000002,
+      "text": " So that means these are very basic objects"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1820.3200000000002,
+      "end": 1824.68,
+      "text": " in Python from which everything can be made."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1824.68,
+      "end": 1826.04,
+      "text": " So these are scalar objects."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1826.04,
+      "end": 1828.48,
+      "text": " They can't be subdivided."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1828.48,
+      "end": 1831.2,
+      "text": " The other type of object is a non-scalar object."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1831.2,
+      "end": 1833.64,
+      "text": " And these are objects that have some internal structure."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1833.64,
+      "end": 1837.0800000000002,
+      "text": " So for example, the number 5 is a scalar object"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1837.0800000000002,
+      "end": 1839.04,
+      "text": " because it can't be subdivided."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1839.04,
+      "end": 1842.68,
+      "text": " But a list of numbers, for example, 5, 6, 7, 8,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1842.68,
+      "end": 1846.52,
+      "text": " is going to be a non-scalar object because you can subdivide it."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1846.52,
+      "end": 1853.36,
+      "text": " You can subdivide it into, you can find parts to it."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1853.36,
+      "end": 1855.12,
+      "text": " It's made up of a sequence of numbers."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1858.44,
+      "end": 1861.16,
+      "text": " So here's the list of all of the scalar objects in Python."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1861.16,
+      "end": 1863.24,
+      "text": " We have integers."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1863.24,
+      "end": 1865.84,
+      "text": " For example, all of the whole numbers."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1865.84,
+      "end": 1869.8799999999999,
+      "text": " Floats, which are all of the real numbers,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1869.8799999999999,
+      "end": 1871.44,
+      "text": " anything with a decimal."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1871.44,
+      "end": 1873.72,
+      "text": " Bulls are Booleans."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1873.72,
+      "end": 1876.04,
+      "text": " There's only two values to Booleans."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1876.04,
+      "end": 1878.44,
+      "text": " That's true and false."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1878.44,
+      "end": 1883.0,
+      "text": " Note the capitalization, capital T and capital F."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1883.0,
+      "end": 1885.0,
+      "text": " And this other thing called non-type."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1885.0,
+      "end": 1886.44,
+      "text": " It's special."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1886.44,
+      "end": 1888.52,
+      "text": " It has only one value called none."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1888.52,
+      "end": 1890.48,
+      "text": " And it represents the absence of a type."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1890.48,
+      "end": 1894.56,
+      "text": " And it sometimes comes in handy for some programs."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1894.56,
+      "end": 1896.28,
+      "text": " If you want to find the type of an object,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1896.28,
+      "end": 1899.36,
+      "text": " you can use this special command called type."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1899.36,
+      "end": 1901.2,
+      "text": " And then in the parentheses, you put down"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1901.2,
+      "end": 1904.36,
+      "text": " what you want to find the type of."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1904.3999999999999,
+      "end": 1907.4399999999998,
+      "text": " So you can write into the shell type of five."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1907.4399999999998,
+      "end": 1909.6399999999999,
+      "text": " And the shell will tell you that's an integer."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1913.0,
+      "end": 1916.28,
+      "text": " If you happen to want to convert between two different types,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1916.28,
+      "end": 1918.1599999999999,
+      "text": " Python allows you to do that."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1918.1599999999999,
+      "end": 1921.4399999999998,
+      "text": " And to do that, you put the type that you"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1921.4399999999998,
+      "end": 1923.8,
+      "text": " want to convert to right before the object"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1923.8,
+      "end": 1925.1599999999999,
+      "text": " that you want to convert to."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1925.1599999999999,
+      "end": 1932.6799999999998,
+      "text": " So float 3 will convert the integer 3 to the float 3.0."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1932.68,
+      "end": 1936.88,
+      "text": " And similarly, you can convert any float into an integer."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1936.88,
+      "end": 1939.92,
+      "text": " And converting to an integer just truncates."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1939.92,
+      "end": 1941.68,
+      "text": " So it just takes away the decimal."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1941.68,
+      "end": 1944.64,
+      "text": " And whatever's after it, it does not round"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1944.64,
+      "end": 1946.72,
+      "text": " and keeps just the integer part."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1949.48,
+      "end": 1952.0,
+      "text": " So for this slide, I'm going to talk about it."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1952.0,
+      "end": 1955.04,
+      "text": " But if you'd like, if you have the slides up,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1955.04,
+      "end": 1957.1200000000001,
+      "text": " go to this exercise."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1957.1200000000001,
+      "end": 1959.16,
+      "text": " And after I'm done talking about the slide,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1959.16,
+      "end": 1965.24,
+      "text": " we'll see what people think for that exercise."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1965.24,
+      "end": 1967.0,
+      "text": " So one of the most important things"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1967.0,
+      "end": 1972.5600000000002,
+      "text": " that you can do in basically any programming in Pythons"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1972.5600000000002,
+      "end": 1975.3200000000002,
+      "text": " also is to print things out."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1975.3200000000002,
+      "end": 1980.3600000000001,
+      "text": " So printing out is how you interact with the user."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1980.3600000000001,
+      "end": 1982.92,
+      "text": " So to print things out, you use the print command."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1982.92,
+      "end": 1987.52,
+      "text": " So if you're in the shell, if you simply type 3 plus 2,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1987.52,
+      "end": 1991.6399999999999,
+      "text": " you do see a value here, 5."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1991.6399999999999,
+      "end": 1993.8,
+      "text": " But that's not actually printing something out."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1993.8,
+      "end": 1998.32,
+      "text": " And that becomes apparent when you actually"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1998.32,
+      "end": 1999.48,
+      "text": " type things into the editor."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 1999.48,
+      "end": 2002.92,
+      "text": " So if you just do 3 plus 2, and you run the program,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2002.92,
+      "end": 2004.76,
+      "text": " that's this little green button here."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2004.76,
+      "end": 2007.04,
+      "text": " You see on the right-hand side here, it ran my program."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2007.04,
+      "end": 2010.12,
+      "text": " But it didn't actually print anything."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2010.12,
+      "end": 2012.12,
+      "text": " If you type this into the console,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2012.12,
+      "end": 2013.48,
+      "text": " it does show you this value."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2013.48,
+      "end": 2017.28,
+      "text": " But that's just sort of peeking into the value"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2018.24,
+      "end": 2019.44,
+      "text": " for you as a programmer."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2019.44,
+      "end": 2021.6399999999999,
+      "text": " It's not actually printing it out to anyone."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2021.6399999999999,
+      "end": 2023.06,
+      "text": " If you want to print something out,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2023.06,
+      "end": 2027.8,
+      "text": " you have to use the print statement like that."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2027.8,
+      "end": 2029.04,
+      "text": " So in this case, this is actually"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2029.04,
+      "end": 2032.04,
+      "text": " going to print this number 5 to the console."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2037.0,
+      "end": 2039.44,
+      "text": " So that's basically what it says."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2039.44,
+      "end": 2041.68,
+      "text": " So out just tells you it's an interaction within the shell"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2041.68,
+      "end": 2042.36,
+      "text": " only."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2042.36,
+      "end": 2044.56,
+      "text": " It's not interacting with anyone else."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2044.56,
+      "end": 2046.04,
+      "text": " And if you don't have any out, that"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2046.04,
+      "end": 2049.84,
+      "text": " means it got printed out to the console."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2049.84,
+      "end": 2053.24,
+      "text": " So we talked a little bit about objects."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2053.24,
+      "end": 2056.0,
+      "text": " Once you have objects, you can combine objects and operators"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2056.0,
+      "end": 2057.12,
+      "text": " to form these expressions."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2057.12,
+      "end": 2059.48,
+      "text": " And each expression is going to have value."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2059.48,
+      "end": 2062.8,
+      "text": " So an expression evaluates to a value."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2062.8,
+      "end": 2064.36,
+      "text": " And the syntax for an expression is"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2064.36,
+      "end": 2070.4,
+      "text": " going to be object, operator, object, like that."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2070.4,
+      "end": 2073.92,
+      "text": " And these are some operators you can do on ints and floats."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2073.96,
+      "end": 2076.48,
+      "text": " So there's the typical ones, addition, subtraction,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2076.48,
+      "end": 2078.6800000000003,
+      "text": " multiplication, and division."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2078.6800000000003,
+      "end": 2083.76,
+      "text": " If for the first three, you have the answer that you get,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2083.76,
+      "end": 2085.26,
+      "text": " the type of the answer that you get"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2085.26,
+      "end": 2088.36,
+      "text": " is going to depend on the type of your variables."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2088.36,
+      "end": 2092.76,
+      "text": " So if both of the variables of the operands are integers,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2092.76,
+      "end": 2095.04,
+      "text": " then the result you're going to get is of type integer."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2095.04,
+      "end": 2096.54,
+      "text": " But if at least one of them is a float,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2096.54,
+      "end": 2098.92,
+      "text": " then the result you're going to get is a float."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2098.92,
+      "end": 2102.6800000000003,
+      "text": " Division's a little bit special in that no matter"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2102.68,
+      "end": 2104.96,
+      "text": " what the operands are, the result"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2104.96,
+      "end": 2106.2799999999997,
+      "text": " is always going to be a float."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2109.72,
+      "end": 2114.48,
+      "text": " The other operations you can do, and these are also useful,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2114.48,
+      "end": 2119.3199999999997,
+      "text": " are the remainder, so the percent sign."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2119.3199999999997,
+      "end": 2122.9199999999996,
+      "text": " If you use the percent sign between two operands,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2122.9199999999996,
+      "end": 2124.94,
+      "text": " that's going to give you the remainder when"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2124.94,
+      "end": 2128.04,
+      "text": " you divide i by j."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2128.04,
+      "end": 2130.16,
+      "text": " And raising something to the power of something else"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2130.16,
+      "end": 2132.72,
+      "text": " is using the star star operator."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2132.72,
+      "end": 2136.08,
+      "text": " And i star stars j is going to take i to the power of j."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2140.6,
+      "end": 2143.8999999999996,
+      "text": " So these operations have the typical precedence"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2143.8999999999996,
+      "end": 2147.0,
+      "text": " that you might expect in math, for example."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2147.0,
+      "end": 2149.18,
+      "text": " And if you'd like to put precedence"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2149.18,
+      "end": 2150.44,
+      "text": " towards some other operations, you"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2150.44,
+      "end": 2152.08,
+      "text": " can use parentheses to do that."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2161.04,
+      "end": 2163.72,
+      "text": " All right."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2163.72,
+      "end": 2166.96,
+      "text": " OK, so we have ways of creating expressions."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2166.96,
+      "end": 2173.48,
+      "text": " And we have operations we can do on objects."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2173.48,
+      "end": 2175.52,
+      "text": " But what's going to be useful is to be"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2175.52,
+      "end": 2181.3199999999997,
+      "text": " able to save values to some name."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2181.3199999999997,
+      "end": 2184.72,
+      "text": " And the name is going to be something that you pick."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2184.72,
+      "end": 2187.7599999999998,
+      "text": " And it should be a descriptive name."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2187.76,
+      "end": 2192.2400000000002,
+      "text": " And when you save the value to a name,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2192.2400000000002,
+      "end": 2196.0,
+      "text": " you're going to be able to access that value later"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2196.0,
+      "end": 2197.88,
+      "text": " on in your program."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2197.88,
+      "end": 2200.0400000000004,
+      "text": " And that's very useful."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2200.0400000000004,
+      "end": 2205.2400000000002,
+      "text": " So to save a value to a variable name, you use the equal sign."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2209.0800000000004,
+      "end": 2211.28,
+      "text": " And the equal sign is an assignment."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2211.28,
+      "end": 2214.0,
+      "text": " So it assigns the right-hand side, which is a value,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2214.0,
+      "end": 2216.5600000000004,
+      "text": " to the left-hand side, which is going to be a variable name."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2218.76,
+      "end": 2222.88,
+      "text": " So in this case, I assign the float 3.14159"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2222.88,
+      "end": 2225.5200000000004,
+      "text": " to the variable pi."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2225.5200000000004,
+      "end": 2228.1600000000003,
+      "text": " And in the second line, I'm going"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2228.1600000000003,
+      "end": 2230.7200000000003,
+      "text": " to take this expression, 22 divided by 7."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2230.7200000000003,
+      "end": 2233.0800000000004,
+      "text": " I'm going to evaluate it."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2233.0800000000004,
+      "end": 2236.0,
+      "text": " It's going to come up with some decimal number."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2236.0,
+      "end": 2238.0800000000004,
+      "text": " And I'm going to save it into the variable pi"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2238.0800000000004,
+      "end": 2239.92,
+      "text": " underscore a procs."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2239.92,
+      "end": 2241.44,
+      "text": " Values are stored in memory."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2241.44,
+      "end": 2242.92,
+      "text": " And this assignment in Python, we"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2242.92,
+      "end": 2246.0,
+      "text": " say the assignment binds the name to the value."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2246.0,
+      "end": 2250.84,
+      "text": " So when you use that name later on in your program,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2250.84,
+      "end": 2255.6,
+      "text": " you're going to be referring to the value in memory."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2255.6,
+      "end": 2258.76,
+      "text": " And if you ever want to refer to the value later on in your code,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2258.76,
+      "end": 2260.56,
+      "text": " you just simply type the name of the variable"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2260.56,
+      "end": 2264.44,
+      "text": " that you've assigned it to."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2264.44,
+      "end": 2268.2,
+      "text": " So why do we want to give names to expressions?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2268.2,
+      "end": 2271.62,
+      "text": " Well, you want to reuse the names instead of the values."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2271.62,
+      "end": 2274.16,
+      "text": " And it makes your code look a lot nicer."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2274.16,
+      "end": 2276.7999999999997,
+      "text": " So this is a piece of code that calculates"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2276.7999999999997,
+      "end": 2279.24,
+      "text": " the area of a circle."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2279.24,
+      "end": 2283.44,
+      "text": " And notice I've assigned a variable pi to 3.14159."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2283.44,
+      "end": 2287.3199999999997,
+      "text": " I've assigned another variable called radius to be 2.2."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2287.3199999999997,
+      "end": 2289.68,
+      "text": " And then later on in my code, I have another line"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2289.68,
+      "end": 2294.0,
+      "text": " that says area, this is another variable, is equal to,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2294.0,
+      "end": 2297.24,
+      "text": " this is an assignment, to this expression."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2297.24,
+      "end": 2300.64,
+      "text": " And this expression is just going to,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2300.72,
+      "end": 2304.2799999999997,
+      "text": " is referring to these variable names, pi and radius."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2304.2799999999997,
+      "end": 2306.3599999999997,
+      "text": " And it's going to look up their values in memory."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2306.3599999999997,
+      "end": 2309.04,
+      "text": " And it's going to replace these variable names"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2309.04,
+      "end": 2310.04,
+      "text": " with those values."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2310.04,
+      "end": 2312.7999999999997,
+      "text": " And it's going to do the calculation for me."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2312.7999999999997,
+      "end": 2314.4,
+      "text": " And in the end, this whole expression"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2314.4,
+      "end": 2316.64,
+      "text": " is going to be replaced by one number."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2316.64,
+      "end": 2320.44,
+      "text": " And that's going to be the float."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2320.44,
+      "end": 2325.24,
+      "text": " Here's another exercise while I'm talking about the slide."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2325.24,
+      "end": 2328.48,
+      "text": " I do want to make a note about programming versus math."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2328.52,
+      "end": 2335.44,
+      "text": " So in math, you're often presented with a problem that's"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2335.44,
+      "end": 2337.76,
+      "text": " a solve for x."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2337.76,
+      "end": 2341.12,
+      "text": " x plus y is equal to something, something, solve for x,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2341.12,
+      "end": 2343.76,
+      "text": " for example."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2343.76,
+      "end": 2349.36,
+      "text": " That's coming back to the fact that computers"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2349.36,
+      "end": 2350.64,
+      "text": " don't know what to do with that."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2350.64,
+      "end": 2352.6,
+      "text": " Computers need to be told what to do."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2352.6,
+      "end": 2354.44,
+      "text": " So in programming, if you want to solve for x,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2354.44,
+      "end": 2358.4,
+      "text": " you need to tell the computer exactly how to solve for x."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2358.4,
+      "end": 2360.36,
+      "text": " So you need to figure out what formula"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2360.36,
+      "end": 2362.6800000000003,
+      "text": " you need to give the computer in order"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2362.6800000000003,
+      "end": 2365.52,
+      "text": " to be able to solve for x."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2365.52,
+      "end": 2368.36,
+      "text": " So that means always in programming,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2368.36,
+      "end": 2373.04,
+      "text": " the right-hand side is going to be an expression."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2373.04,
+      "end": 2375.96,
+      "text": " It's something that's going to be evaluated to a value."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2375.96,
+      "end": 2378.92,
+      "text": " And the left-hand side is always a variable."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2378.92,
+      "end": 2380.34,
+      "text": " So it's going to be an assignment."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2380.34,
+      "end": 2383.88,
+      "text": " So the equal sign is not like in math,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2383.88,
+      "end": 2385.84,
+      "text": " where you can have a lot of things to the left"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2385.84,
+      "end": 2387.32,
+      "text": " and a lot of things to the right of the equal sign."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2387.32,
+      "end": 2389.4,
+      "text": " There's only one thing to the left of the equal sign,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2389.4,
+      "end": 2390.76,
+      "text": " and that's going to be a variable."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2390.76,
+      "end": 2393.7200000000003,
+      "text": " And the equal sign stands for an assignment."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2393.7200000000003,
+      "end": 2397.1200000000003,
+      "text": " Once we've created expressions and we have these assignments,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2397.1200000000003,
+      "end": 2399.48,
+      "text": " you can rebind variable names using new assignment"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2399.48,
+      "end": 2401.32,
+      "text": " statements."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2401.32,
+      "end": 2405.0,
+      "text": " So let's look at an example for that."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2405.0,
+      "end": 2408.48,
+      "text": " Let's say this is our memory."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2408.48,
+      "end": 2412.92,
+      "text": " Let's type back in the example with finding the radius."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2412.92,
+      "end": 2418.32,
+      "text": " So let's say pi is equal to 3.14."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2418.32,
+      "end": 2422.2000000000003,
+      "text": " So in memory, we're going to create this value 3.14."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2422.2000000000003,
+      "end": 2428.16,
+      "text": " We're going to bind it to the variable named pi."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2428.16,
+      "end": 2431.16,
+      "text": " Next line, radius is equal to 2.2."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2431.16,
+      "end": 2435.2000000000003,
+      "text": " In memory, we're creating this variable, this value 2.2,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2435.2000000000003,
+      "end": 2440.64,
+      "text": " and we're going to bind it to the variable named radius."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2440.64,
+      "end": 2444.56,
+      "text": " Then we have this expression here."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2444.56,
+      "end": 2448.0,
+      "text": " It's going to substitute the values for pi from memory"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2448.0,
+      "end": 2449.96,
+      "text": " and the value for radius from memory."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2449.96,
+      "end": 2454.0,
+      "text": " It's going to calculate the value"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2454.0,
+      "end": 2456.3199999999997,
+      "text": " that this expression evaluates to."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2456.3199999999997,
+      "end": 2457.92,
+      "text": " It's going to pop that into the memory,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2457.92,
+      "end": 2460.12,
+      "text": " and it's going to assign, because we're"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2460.12,
+      "end": 2461.08,
+      "text": " using the equal sign."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2461.08,
+      "end": 2465.6,
+      "text": " It's going to assign that value to that variable area."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2466.12,
+      "end": 2468.12,
+      "text": " OK."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2468.12,
+      "end": 2474.72,
+      "text": " So now let's say we rebind radius to be something else."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2474.72,
+      "end": 2481.48,
+      "text": " So radius is bound to the value 2.2."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2481.48,
+      "end": 2484.48,
+      "text": " But when we do this line, radius is equal to radius plus 1."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2484.48,
+      "end": 2487.52,
+      "text": " We're going to take away the binding to 2.2."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2487.52,
+      "end": 2489.92,
+      "text": " We're going to do this calculation."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2489.92,
+      "end": 2491.56,
+      "text": " The new value is 3.2, and we're going"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2491.56,
+      "end": 2497.96,
+      "text": " to rebind that value to that same variable."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2497.96,
+      "end": 2500.08,
+      "text": " So in memory, notice we're still going"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2500.08,
+      "end": 2503.7999999999997,
+      "text": " to have this value 2.2 floating around,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2503.7999999999997,
+      "end": 2506.72,
+      "text": " but we've lost the handle for it."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2506.72,
+      "end": 2507.88,
+      "text": " There's no way to get it back."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2507.88,
+      "end": 2512.0,
+      "text": " So it's just in memory, sitting there."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2512.0,
+      "end": 2514.08,
+      "text": " At some point, it might get collected"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2514.08,
+      "end": 2517.04,
+      "text": " by what we call the garbage collector in Python."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2517.04,
+      "end": 2520.92,
+      "text": " It'll retrieve these lost values,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2520.92,
+      "end": 2525.88,
+      "text": " and it'll reuse them for new values and things like that."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2525.88,
+      "end": 2528.36,
+      "text": " But radius now points to the new value."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2528.36,
+      "end": 2533.8,
+      "text": " So we can never get back 2.2."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2533.8,
+      "end": 2536.28,
+      "text": " And that's it."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2536.28,
+      "end": 2539.0,
+      "text": " The value of area, notice this is very important,"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2539.0,
+      "end": 2543.12,
+      "text": " the value of area did not change."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2543.12,
+      "end": 2545.04,
+      "text": " And it did not change because these"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2545.04,
+      "end": 2549.4,
+      "text": " are all the instructions we told the computer to do."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2549.4,
+      "end": 2553.2400000000002,
+      "text": " We just told it to change radius to be radius plus 1."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2553.2400000000002,
+      "end": 2557.48,
+      "text": " We never told it to recalculate the value of area."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2557.48,
+      "end": 2561.6,
+      "text": " If I copied that line down here, then the value of area"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2561.6,
+      "end": 2562.7200000000003,
+      "text": " would change."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2562.7200000000003,
+      "end": 2564.3,
+      "text": " But we never told it to do that."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2564.3,
+      "end": 2567.0,
+      "text": " So the computer only does what we tell it to do."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2567.0,
+      "end": 2567.92,
+      "text": " That's the last thing."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2567.92,
+      "end": 2571.12,
+      "text": " Next lecture, we're going to talk about adding control"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2571.12,
+      "end": 2572.2400000000002,
+      "text": " flow to our programs."
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2572.2400000000002,
+      "end": 2575.52,
+      "text": " So how do you tell the computer to do one thing or another?"
+    },
+    {
+      "number": "1",
+      "title": "Lecture",
+      "start": 2575.52,
+      "end": 2577.08,
+      "text": " All right."
+    }
+  ],
+  "text": " The following content is provided under a Creative Commons license. Your support will help MIT OpenCourseWare continue to offer high quality educational resources for free. To make a donation or view additional materials from hundreds of MIT courses, visit MIT OpenCourseWare at ocw.mit.edu. All right, let's begin. So as I mentioned before, this lecture will be recorded for OCW. So again, in future lectures, if you don't want to have the back of your head show up, just don't sit in this front area here. So first of all, wow, what a crowd, you guys. We're finally in 26,100. 6.011 made it big, huh? So good afternoon, and welcome to the very first class of 6.011 and also 600 this semester. So my name is Anna Bell, first name Anna, last name Bell. I'm a lecturer in the ECS department. And I'll be giving some of the lectures for today, along with later on in the term, Professor Eric Grimson, who's sitting right down there, will be giving some of the lectures as well. OK, so today we're going to go over some just basic administrivia, a little bit of course information. And then we're going to talk a little bit about what is computation. So we'll discuss at a very high level what computers do, just to make sure we're all on the same page. And then we're going to dive right into Python basics. We're going to talk a little bit about mathematical operations you can do with Python. And then we're going to talk about Python variables and types. So as I mentioned in my introductory email, all the slides and code that I'll talk about during lectures will be up before lecture. So I highly encourage you to download them and to have them open. We're going to go through some in-class exercises, which will be available on the slides. And it's fun to do. And it's also great if you could take notes on the code, just for future reference. It's true. This is a really fast-paced course. And we ramp up really quickly. So we do want to position you to succeed in this course. So as I was writing this, I was trying to think about when I was first starting the program, what helped me get through my very first programming course. And this is really a good list. So the first thing was, I just read the p-sets as soon as they came out. The terminology just sunk in. And then during lectures, if the lecturer was talking about something that suddenly I remembered, oh, I saw that word in the p-set. And I didn't know what it was. Well, hey, now I know what it is. So just give it a read. You don't need to start it. If you're new to programming, I think the keyword is practice. So it's like math or reading. The more you practice, the better you get at it. You're not going to absorb programming by watching me write programs, because I already know how to program. You guys need to practice. So download the code before lecture. Follow along. Whatever I type, you guys can type. And I think also one of the big things is, if you're new to programming, you're kind of afraid that you're going to break your computer. And you can't really do that just by running Anaconda and typing in some commands. So don't be afraid to just type some stuff in and see what it does. Worst case, you just restart the computer. So yeah. Yeah, so that's probably the big thing right there. I should probably have highlighted it. But don't be afraid. Great, so this is pretty much a roadmap of all of 6.001 or 600, as I've just explained it. There's three big things we want you to get out of this course. The first thing is the knowledge of concepts, which is pretty much true of any class that you'll take. The class will teach you something through lectures. Exams will test how much you know. This is a class in programming. The other thing we want you to get out of it is programming skills. And the last thing, and I think this is what makes this class really great, is we teach you how to solve problems. And we do that through the p-sets. So that's really how I feel the roadmap of this course looks like. And underlying all of these is just practice. So you have to just type some stuff away and code a lot. And you'll succeed in this course, I think. OK. So what are the things we're going to learn in this class? I feel like the things we're going to learn in this class can be divided into basically three different sections. So the first one is related to these first two items here. So it's really about learning how to program. So learning how to program is part of it is figuring out what objects to create. You'll learn about these later. How do you represent knowledge with data structures? That's sort of the broad term for that. And then as you're writing programs, programs aren't just linear. Sometimes programs jump around. They make decisions. There's some control flow to programs. So that's what the second line is going to be about. The second big part of this course is a little bit more abstract. And it deals with how do you write good code, good style, code that's readable. So when you write code, you want to write it such that you're in a big company. Other people will read it. Other people will use it. So it has to be readable and understandable by others. So to that end, you need to write code that's well-organized, modular, easy to understand. And not only that, not only will your code be read by other people, but next year maybe you'll take another course and you'll want to look back at some of the problems that you wrote in this class. You kind of want to be able to reread your code. If it's a big mess, you might not be able to understand or re-understand what you were doing. So writing readable code and organizing code is also a big part. And the last section is going to deal with, so the first two are actually part of the programming in introduction to programming and computer science in Python. And the last one deals mostly with the computer science part, introduction to programming and computer science in Python. So we're going to talk about once you've learned how to write programs in Python, how do you compare programs in Python? How do you know that one program is better than the other? How do you know that one program is more efficient than the other? How do you know that one algorithm is better than the other? So that's what we're going to talk about in the last part of the course. So that's all for the sort of administrative part of the course. So let's start by talking at a high level, what does a computer do? So fundamentally, it does two things. One, performs calculations. It performs a lot of calculations. Computers these days are really, really fast. A billion calculations per second is probably not far off. It performs these calculations, and it has to store them somewhere, right? Stores them in computer memory. So a computer also has to remember results. And these days, it's not uncommon to find computers with hundreds of gigabytes of storage. So the kinds of calculations that computers do, there are two kinds. So one are calculations that are built into the language. These are the very low level types of calculations, things like addition, subtraction, multiplication, and so on. And once you have a language that has these sort of primitive calculation types, you as a programmer can put these types together and then define your own calculations. And then you create new types of calculations, and the computer will be able to perform those as well. And I think one thing I want to stress, and we're going to come back to this again during this entire lecture, actually, is computers only know what you tell them. Computers only do what you tell them to do. They're not magical. They don't have a mind. They just know how to perform calculations really, really quickly. But you have to tell them what calculations to do. OK. OK. Computers don't know anything. All right. We've come to that. So let's go into the types of knowledge. The first type of knowledge is declarative knowledge. And those are things like statements of fact. And this is where my email came into play. If you read it all the way to the bottom, you would have entered a raffle. OK. So statement of fact for today's lecture is someone will win a prize before class ends. And the prize was a Google Cardboard, Google State of the Art virtual reality glasses. And they have them right here. OK. Yay. OK. I delivered on my promise. OK. So that's a statement of fact. So pretend I'm a machine. I don't know anything except what you tell me. So I don't know. I know that you tell me the statement. I'm like, OK. But how is someone going to win a Google Cardboard before class ends? That's where imperative knowledge comes in. So imperative knowledge is the recipe, or the how-to, or the sequence of steps. OK. Sorry. That's just my funny for that one. So the sequence of steps is imperative knowledge. So if I'm a machine, you need to tell me how someone will win a Google Cardboard before class. So if I follow these steps, then technically I should reach a conclusion. OK. So step one, I think we've already done that. Whoever wanted to sign up has signed up. So now I'm going to open my IDE. So I'm just basically being a machine and following the steps that you've told me. So the IDE that we're using in this class is called Anaconda. Let me just scroll down to the bottom. OK. Hopefully you've installed it in problem set 0. So I've opened my IDE. I'm going to follow the next set of instructions. I'm going to choose a random number between the first and the nth responder. OK. Now I'm going to actually use Python to do this. And this is also an example of how just a really simple task in your life, you can use computers or programming to do that. Because if I chose a random number, I might be biased, because for example, you might like the number 8. So to choose a random number, I'm going to go and say, OK, where's the list of responders? It starts at 15. Actually, it starts at 16, because that's me. So we're going to choose a random number between 16 and the end person 266. Oh, we just got, oh, OK. OK, I'm going to cut it off right here, 271. OK, 16 and 271. Perfect. OK. So I'm going to choose a random number. So I'm going to go to my ID. And you don't need to know how to do this yet. But by the end of this class, you will. So I'm just going to use Python. I'm just going to get the random number package that's going to get me a random number. So I'm going to say random.randint. And I'm going to choose a random number between 16 and 272. OK, 75. OK, great. So I chose a random number. And I'm going to find the number in the responders sheet. What was the number again? Sorry. 75. OK. Up we go. There we go. Lauren, Z-O-V. Yeah, nice. You're here. Yeah. Awesome. All right. So that's an example of me being a machine, right? And also at the same time using Python in just my everyday life, just lecturing, just to find a random number, right? So just try to use Python wherever you can. And that just gives you practice. OK. So that was fun. But we're MIT students, right? And we love numbers here at MIT, right? So here's a numerical example that shows the difference between declarative and imperative knowledge. So I want to find the square root of a number. An example of declarative knowledge is the square root of a number x is y, such that y times y is equal to x. OK? That's just a statement of fact. It's true. Imperative null. So computers don't know what to do with that, right? They don't know what to do with that statement. But computers do know how to follow a recipe. So here's a well-known algorithm to find the square root of a number, x. Let's say x is originally 16. So if a computer follows this algorithm, it's going to start with a guess g, let's say 3, right? We're trying to find the square root of 16. We're going to calculate g times g is 9, right? And we're going to ask, if g times g is close enough to x, then stop and say g is the answer. I'm not really happy with 9 being really close to 16, right? So I'm going to say, I'm not stopping here. I'm going to keep going. So if it's not close enough, then I'm going to make a new guess by averaging g and x over g. So that's x over g here, and that's the average over there. And the new average is going to be my new guess. And that's what it says. And then the last step is using the new guess, repeat the process. So then we go back to the beginning and repeat the whole process over and over again. And that's what the rest of the rows does. And you keep doing this until you decide that you're close enough. OK, so then what we saw for the imperative knowledge in the previous numerical example was the recipe for how to find the square root of x. So what were the three parts to the recipe? One was a simple sequence of steps. There were four steps, pretty much. The other was a flow of control. So there were parts where we made decisions. Are we close enough? There were parts where we repeated some steps. So at the end, we said repeat steps one, two, three. So that's the flow of control. And the last part of the recipe was a way to stop. You don't want a program that keeps going and going. Or for a recipe, you don't want to keep baking bread forever. You want to stop at some point. 10 breads is enough. So you have to have a way of stopping. In the previous example, the way of stopping was that we decided we were close enough. Close enough was maybe being within 0.01, 0.0001, whatever you pick. So this recipe is, therefore, an algorithm. In computer science speak, it's going to be an algorithm. And that's what we're going to learn about in this class. So we're dealing with computers. And we actually want to capture a recipe inside a computer, a computer being a mechanical process. And historically, there were two ways of, historically, there were two different types of computers. So originally, there were these things called six-program computers. And I'm old enough to have used something like this, where there's just numbers and plus, minus, multiplication, divide, and equal. But calculators these days are a lot more complicated. But way back then, an example of a fixed-program computer is this calculator. It only knows how to do addition, multiplication, subtraction, division. If you want to plot something, you can't. If you want to go on the internet, set email with it, you can't. It can only do this one thing. And if you wanted to create a machine that did another thing, then you'd have to create another fixed-program computer that did a completely separate task. So that's not very great. So that's when stored-program computers came into play. And these were machines that could store a sequence of instructions. And these machines could execute the sequence of instructions. And you could change the sequence of instructions and execute this different sequence of instructions. So you could do different tasks in the same machine. And that's the computer as we know it these days. So the central processing unit is where all of these decisions get made. And these are all the peripherals. So the basic machine architecture. So at the heart of every computer, there's just this basic architecture. And it contains, I guess, four main parts. So the first is the memory. Input and output is the other one. The ALU is where all of the operations are done. And the operations that the ALU can do are these really primitive operations, subtraction, and so on. So what the memory contains is a bunch of data and your sequence of instructions. So interacting with the arithmetic logic unit is the control unit. And the control unit contains one program counter. So when you load a sequence of instructions, the program counter starts at the first sequence. It gets what the first starts at the sequence, at the first instruction. It gets what the instruction is, and it sends it to the ALU. The ALU asks, what are we doing operations on here? What's happening? So it might get some data. If you're adding two numbers, it might get two numbers from memory. It might do some operations, and it might store data back into memory. And after it's done, the ALU is going to go back, and the program counter is going to increase by one, which means that we're going to go to the next sequence in the instruction set. And it just goes linearly instruction by instruction. There might be one particular instruction that does some sort of test. It's going to say, is this particular value greater or equal to or the same as this other particular value? So that's a test, an example of a test. And the test is going to either return true or false. And depending on the result of that test, you might either go to the next instruction, or you might set the program counter to go all the way back to the beginning and so on. So you're not just sort of linearly stepping through all the instructions. There might be some control flow involved, where you might skip an instruction or start from the beginning or so on. And after you're done, when you finished executing the last instruction, then you might output something. So that's really the basic way that a computer works. So just to recap, you have the stored program computer that contains these sequences of instructions. The primitive operations that it can do are addition, subtraction, logic operations, tests, which are something equal to something else, something less than and so on, and moving data, so storing data, moving data around, and things like that. And the interpreter goes through every instruction and decides whether you're going to go to the next instruction, skip instructions, or repeat instructions, and so on. So we talked about primitives. And in fact, Alan Turing was a really great computer scientist. He showed that you can compute anything using the six primitives. And the six primitives are move left, move right, read right, scan, and do nothing. So using those six instructions and a piece of tape, he showed that you can compute anything. And using those six instructions, programming languages came about that created a more convenient set of primitives. So you don't have to program in only these six commands. And one interesting thing, or one really important thing, that came about from these six primitives is that if you can compute something in Python, let's say, if you write a program that computes something in Python, then in theory, you can write a program that computes the exact same thing in any other language. And that's a really powerful statement. Think about that today when you review your slides. Think about that again. And that's really powerful. OK. So once you have your set of primitives, you can set of primitives for a particular language, you can start creating expressions. And these expressions are going to be combinations of the primitives in the programming language. And the expressions are going to have some value. And they're going to have some meaning in the programming language. So let's do a little bit of a parallel with English, just so you see what I mean. So in English, the primitive constructs are going to be words. There's a lot of words in the English language. Programming languages in Python, there are primitives, but there aren't as many of them. So there are floats, booleans, these are numbers, strings, and simple operators like addition, subtraction, and so on. OK. So we have primitive constructs. Using these primitive constructs, we can start creating, in English, phrases, sentences. And the same in programming languages. So in English, we can say something like, cat dog boy. That, we say, is not syntactically valid. So that's bad syntax. That's noun, noun, noun. That doesn't make sense. What does have good syntax in English is noun, verb, noun. So cat hugs boy is syntactically valid. Similarly, in a programming language, something like this, in Python in this case, a word and then the number five doesn't really make sense. It's not syntactically valid. But something like operator, operand, operator is OK. So once you've created these phrases or these expressions that are syntactically valid, you have to think about the static semantics of your phrase, of your expression. So for example, in English, I are hungry is good syntax. But it's kind of weird to say. We have a pronoun, a verb, and an adjective, which doesn't really make sense. I am hungry is better. So this does not have good static semantics. Similarly, in programming languages, and you'll get the hang of this the more you do it, something like this, 3.2 times 5 is OK. But what does it mean? What's the meaning to have a word added to a number? There's no meaning behind that. Syntax is OK because you have operator, operand, operator. But it doesn't really make sense to add a number to a word, for example. So once you have created these expressions that are syntactically correct and static semantically correct, in English, for example, you think about the semantics. So what's the meaning of the phrase? And in English, you can actually have more than one meaning to an entire phrase. So in this case, flying planes are dangerous, or flying planes can be dangerous, can have two meanings, is the act of flying a plane is dangerous, or the plane that is in the air is dangerous. And this might be a cuter example. This reading lamp hasn't uttered a word since I bought it. What's going on? So that has two meanings. It's playing on the word reading lamp. In programming, so that's in English. In English, you can have a sentence that has more than one meaning. That's syntactically correct and static semantically correct. But in programming languages, the program that you write, the set of instructions that you write, only has one meaning. So remember, we're coming back to the fact that the computer only does what you tell it to do. It's not going to suddenly decide to add another variable for some reason. It's just going to execute whatever statements you've put up. So in programming languages, there's only one meaning. But the problem that comes into play in programming languages is it's not the meaning that you might have intended as the programmer. So that's where things can go wrong. And there's going to be a lecture on debugging a little bit later in the course. But this is here just to tell you that if you see an error pop up in your program, it's just some text that says error. For example, if we do something like this. This is syntactically incorrect. Incorrect, syntactically incorrect. See, there's some angry text right here. What is going on? The more you program, you'll get the hang of reading these errors. But this is basically telling me the line that I wrote is syntactically incorrect. And it's pointing me to the exact line and says this is wrong. So I can go back and fix it as a programmer. So syntax errors are actually really easily caught by Python. Static semantic errors. So that was an example of a syntax error. Static semantic errors can also be caught by Python as long as, if your program has some decisions to make, as long as you've gone down the branch where the static semantic error happens. And this is probably going to be the most frustrating one, especially as you're starting out. The program might do something different than what you expected it to do. And that's not because the program suddenly, for example, you expected the program to give you an output of 0 for a certain test case. And the output that you got was 10. Well, the program didn't suddenly decide to change its answer to 10. It just executed the program that you wrote. So that's the case where the program gave you a different answer than expected. Programs might crash, which means they stop running. That's OK. Just go back to your code and figure out what was wrong. And another example of different meaning than what you intended was maybe the program won't stop. It's also OK. There are ways to stop it besides restarting the computer. So then Python programs are going to be sequences of definitions and commands. We're going to have expressions that are going to be evaluated and commands that tell the interpreter to do something. So if you've done problem set 0, you'll see that you can type commands directly in the shell here, which is the part on the right where I did some really simple things, 2 plus 4. Or you can type commands up in here on the left-hand side and then run your program. Notice that, well, we'll talk about this. I won't talk about this now. On the right-hand side, typically you write very simple commands, just if you're testing something out. And on the left-hand side here in the editor, you write more lines and more complicated programs. So now we're going to start talking about Python. And in Python, we're going to come back to this. Everything is an object. And Python programs manipulate these data objects. All objects in Python are going to have a type. And the type is going to tell Python the kinds of operations that you can do on these objects. So if an object is the number 5, for example, you can add the number to another number, subtract the number, take it to the power of something, and so on. As a more general example, for example, I am a human. So that's my type. And I can walk, speak English, et cetera. Chewbacca is going to be a type Wookie. So he can walk, do that sound that I can't do. So he can do that, but I can't. I'm not even going to try. And so on. So once you have these Python objects, everything is an object in Python. There are actually two types of objects. One are scalar objects. So that means these are very basic objects in Python from which everything can be made. So these are scalar objects. They can't be subdivided. The other type of object is a non-scalar object. And these are objects that have some internal structure. So for example, the number 5 is a scalar object because it can't be subdivided. But a list of numbers, for example, 5, 6, 7, 8, is going to be a non-scalar object because you can subdivide it. You can subdivide it into, you can find parts to it. It's made up of a sequence of numbers. So here's the list of all of the scalar objects in Python. We have integers. For example, all of the whole numbers. Floats, which are all of the real numbers, anything with a decimal. Bulls are Booleans. There's only two values to Booleans. That's true and false. Note the capitalization, capital T and capital F. And this other thing called non-type. It's special. It has only one value called none. And it represents the absence of a type. And it sometimes comes in handy for some programs. If you want to find the type of an object, you can use this special command called type. And then in the parentheses, you put down what you want to find the type of. So you can write into the shell type of five. And the shell will tell you that's an integer. If you happen to want to convert between two different types, Python allows you to do that. And to do that, you put the type that you want to convert to right before the object that you want to convert to. So float 3 will convert the integer 3 to the float 3.0. And similarly, you can convert any float into an integer. And converting to an integer just truncates. So it just takes away the decimal. And whatever's after it, it does not round and keeps just the integer part. So for this slide, I'm going to talk about it. But if you'd like, if you have the slides up, go to this exercise. And after I'm done talking about the slide, we'll see what people think for that exercise. So one of the most important things that you can do in basically any programming in Pythons also is to print things out. So printing out is how you interact with the user. So to print things out, you use the print command. So if you're in the shell, if you simply type 3 plus 2, you do see a value here, 5. But that's not actually printing something out. And that becomes apparent when you actually type things into the editor. So if you just do 3 plus 2, and you run the program, that's this little green button here. You see on the right-hand side here, it ran my program. But it didn't actually print anything. If you type this into the console, it does show you this value. But that's just sort of peeking into the value for you as a programmer. It's not actually printing it out to anyone. If you want to print something out, you have to use the print statement like that. So in this case, this is actually going to print this number 5 to the console. So that's basically what it says. So out just tells you it's an interaction within the shell only. It's not interacting with anyone else. And if you don't have any out, that means it got printed out to the console. So we talked a little bit about objects. Once you have objects, you can combine objects and operators to form these expressions. And each expression is going to have value. So an expression evaluates to a value. And the syntax for an expression is going to be object, operator, object, like that. And these are some operators you can do on ints and floats. So there's the typical ones, addition, subtraction, multiplication, and division. If for the first three, you have the answer that you get, the type of the answer that you get is going to depend on the type of your variables. So if both of the variables of the operands are integers, then the result you're going to get is of type integer. But if at least one of them is a float, then the result you're going to get is a float. Division's a little bit special in that no matter what the operands are, the result is always going to be a float. The other operations you can do, and these are also useful, are the remainder, so the percent sign. If you use the percent sign between two operands, that's going to give you the remainder when you divide i by j. And raising something to the power of something else is using the star star operator. And i star stars j is going to take i to the power of j. So these operations have the typical precedence that you might expect in math, for example. And if you'd like to put precedence towards some other operations, you can use parentheses to do that. All right. OK, so we have ways of creating expressions. And we have operations we can do on objects. But what's going to be useful is to be able to save values to some name. And the name is going to be something that you pick. And it should be a descriptive name. And when you save the value to a name, you're going to be able to access that value later on in your program. And that's very useful. So to save a value to a variable name, you use the equal sign. And the equal sign is an assignment. So it assigns the right-hand side, which is a value, to the left-hand side, which is going to be a variable name. So in this case, I assign the float 3.14159 to the variable pi. And in the second line, I'm going to take this expression, 22 divided by 7. I'm going to evaluate it. It's going to come up with some decimal number. And I'm going to save it into the variable pi underscore a procs. Values are stored in memory. And this assignment in Python, we say the assignment binds the name to the value. So when you use that name later on in your program, you're going to be referring to the value in memory. And if you ever want to refer to the value later on in your code, you just simply type the name of the variable that you've assigned it to. So why do we want to give names to expressions? Well, you want to reuse the names instead of the values. And it makes your code look a lot nicer. So this is a piece of code that calculates the area of a circle. And notice I've assigned a variable pi to 3.14159. I've assigned another variable called radius to be 2.2. And then later on in my code, I have another line that says area, this is another variable, is equal to, this is an assignment, to this expression. And this expression is just going to, is referring to these variable names, pi and radius. And it's going to look up their values in memory. And it's going to replace these variable names with those values. And it's going to do the calculation for me. And in the end, this whole expression is going to be replaced by one number. And that's going to be the float. Here's another exercise while I'm talking about the slide. I do want to make a note about programming versus math. So in math, you're often presented with a problem that's a solve for x. x plus y is equal to something, something, solve for x, for example. That's coming back to the fact that computers don't know what to do with that. Computers need to be told what to do. So in programming, if you want to solve for x, you need to tell the computer exactly how to solve for x. So you need to figure out what formula you need to give the computer in order to be able to solve for x. So that means always in programming, the right-hand side is going to be an expression. It's something that's going to be evaluated to a value. And the left-hand side is always a variable. So it's going to be an assignment. So the equal sign is not like in math, where you can have a lot of things to the left and a lot of things to the right of the equal sign. There's only one thing to the left of the equal sign, and that's going to be a variable. And the equal sign stands for an assignment. Once we've created expressions and we have these assignments, you can rebind variable names using new assignment statements. So let's look at an example for that. Let's say this is our memory. Let's type back in the example with finding the radius. So let's say pi is equal to 3.14. So in memory, we're going to create this value 3.14. We're going to bind it to the variable named pi. Next line, radius is equal to 2.2. In memory, we're creating this variable, this value 2.2, and we're going to bind it to the variable named radius. Then we have this expression here. It's going to substitute the values for pi from memory and the value for radius from memory. It's going to calculate the value that this expression evaluates to. It's going to pop that into the memory, and it's going to assign, because we're using the equal sign. It's going to assign that value to that variable area. OK. So now let's say we rebind radius to be something else. So radius is bound to the value 2.2. But when we do this line, radius is equal to radius plus 1. We're going to take away the binding to 2.2. We're going to do this calculation. The new value is 3.2, and we're going to rebind that value to that same variable. So in memory, notice we're still going to have this value 2.2 floating around, but we've lost the handle for it. There's no way to get it back. So it's just in memory, sitting there. At some point, it might get collected by what we call the garbage collector in Python. It'll retrieve these lost values, and it'll reuse them for new values and things like that. But radius now points to the new value. So we can never get back 2.2. And that's it. The value of area, notice this is very important, the value of area did not change. And it did not change because these are all the instructions we told the computer to do. We just told it to change radius to be radius plus 1. We never told it to recalculate the value of area. If I copied that line down here, then the value of area would change. But we never told it to do that. So the computer only does what we tell it to do. That's the last thing. Next lecture, we're going to talk about adding control flow to our programs. So how do you tell the computer to do one thing or another? All right."
+}
